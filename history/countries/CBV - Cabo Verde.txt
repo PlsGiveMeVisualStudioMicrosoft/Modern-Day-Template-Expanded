@@ -1,3 +1,4 @@
+recruit_character = CBV_Jose_Maria_Neves
 recruit_character = CBV_Jorge_Carlos_Fonseca
 
 capital = 702

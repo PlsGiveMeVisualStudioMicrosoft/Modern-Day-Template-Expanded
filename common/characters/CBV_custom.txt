@@ -1,0 +1,15 @@
+characters={
+	CBV_Jose_Maria_Neves={
+		name=CBV_Jose_Maria_Neves
+		portraits={
+			civilian={
+				large="GFX_Portrait_CBV_Jose_Maria_Neves"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}
