@@ -1,0 +1,15 @@
+characters={
+	LPR_Leonid_Pasechnik={
+		name=LPR_Leonid_Pasechnik
+		portraits={
+			civilian={
+				large="GFX_Portrait_LPR_Leonid_Pasechnik"
+			}
+		}
+		country_leader={
+			ideology=putinism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=1057
+	name="Russian Luhansk"
+	manpower = 2102921
+	set_demilitarized_zone = yes
+	resources = {
+		coal = 57 # initial distribution
+	}
+	
+	state_category = city
+
+	history={
+		owner = LPR
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		victory_points = {
+			6474 10
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		add_core_of = LPR
+	}
+
+	provinces={
+		6505 9446 9461
+	}
+
+	local_supplies=10.0 
+}

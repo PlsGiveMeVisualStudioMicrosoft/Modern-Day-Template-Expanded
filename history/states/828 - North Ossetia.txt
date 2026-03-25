@@ -6,7 +6,7 @@ state = {
 	}
 
 	history = {
-		owner = SOV
+		owner = NOA
 		buildings = {
 			infrastructure = 2
 
@@ -14,12 +14,12 @@ state = {
 		add_core_of = SOV
 		add_core_of = NOA
 		victory_points = {
-			9628 3
+			11609 3
 		}
 	}
 
 	provinces = {
-	  9628 9647 11609 
+	  11609 1530 9626
 	}
 	manpower = 387990
 	buildings_max_level_factor = 1.000

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_DPR_Denis_Pushilin"
+		texturefile = "gfx/leaders/DPR/Portrait_DPR_Denis_Pushilin.dds"
+	}
+
+}

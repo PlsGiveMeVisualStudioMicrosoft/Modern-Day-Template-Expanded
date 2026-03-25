@@ -1,0 +1,15 @@
+characters={
+	DPR_Denis_Pushilin={
+		name=DPR_Denis_Pushilin
+		portraits={
+			civilian={
+				large="GFX_Portrait_DPR_Denis_Pushilin"
+			}
+		}
+		country_leader={
+			ideology=putinism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,43 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_NOA_Alan_Gagloyev"
+		texturefile = "gfx/leaders/NOA/Portrait_NOA_Alan_Gagloyev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOA_Anatoly_Bibilov"
+		texturefile = "gfx/leaders/NOA/Portrait_NOA_Anatoly_Bibilov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOA_David_Sanakoev"
+		texturefile = "gfx/leaders/NOA/Portrait_NOA_David_Sanakoev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOA_Zurab_Kokoyev"
+		texturefile = "gfx/leaders/NOA/Portrait_NOA_Zurab_Kokoyev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ABK_Aslan_Bzhania"
+		texturefile = "gfx/leaders/ABK/Portrait_ABK_Aslan_Bzhania.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ABK_Leonid_Lakerbaia"
+		texturefile = "gfx/leaders/ABK/Portrait_ABK_Leonid_Lakerbaia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ABK_Garri_Kupalba"
+		texturefile = "gfx/leaders/ABK/Portrait_ABK_Garri_Kupalba.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ABK_Raul_Khajimba"
+		texturefile = "gfx/leaders/ABK/Portrait_ABK_Raul_Khajimba.dds"
+	}
+
+}

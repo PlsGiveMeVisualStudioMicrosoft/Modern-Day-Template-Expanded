@@ -5829,3 +5829,10 @@
   ALB_democratic:1 "Republic of Albania"
   ALB_communism:1 "Republic of Albania"
   ALB_neutrality:1 "Republic of Albania"
+
+ DPR:0 "Donetsk People's Republic"
+ LPR:0 "Luhansk People's Republic"
+ DPR_DEF:0 "the Donetsk People's Republic"
+ DPR_ADJ:0 "Russo"
+ LPR_DEF:0 "the Luhansk People's Republic"
+ LPR_ADJ:0 "Russo"

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_LPR_Leonid_Pasechnik"
+		texturefile = "gfx/leaders/LPR/Portrait_LPR_Leonid_Pasechnik.dds"
+	}
+
+}

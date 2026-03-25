@@ -3,8 +3,8 @@ state = {
 	name = "STATE_826"
 
 	history = {
-		controller = GEO
-		owner = GEO
+		controller = ABK
+		owner = ABK
 		victory_points = {
 			11617 1 
 		}
@@ -22,7 +22,7 @@ state = {
 	}
 
 	provinces = {
-		672 11599 11617 11647 
+		672 11599 11617 11647 13395 13396
 	}
 	manpower = 491569
 	buildings_max_level_factor = 1.000

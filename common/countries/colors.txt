@@ -1208,5 +1208,13 @@ HBC = {
 	color_ui = rgb { 94 17 14 }
 }
 
+LPR = {
+	color = rgb { 0 0 166 }
+	color_ui = rgb { 94 17 14 }
+}
 
+DPR = {
+	color = rgb { 0 0 166 }
+	color_ui = rgb { 94 17 14 }
+}
 
