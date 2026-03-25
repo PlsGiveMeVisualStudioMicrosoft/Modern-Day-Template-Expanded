@@ -1,0 +1,15 @@
+characters={
+	GHA_Nana_AkufoAddo={
+		name=GHA_Nana_AkufoAddo
+		portraits={
+			civilian={
+				large="GFX_Portrait_GHA_Nana_AkufoAddo"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

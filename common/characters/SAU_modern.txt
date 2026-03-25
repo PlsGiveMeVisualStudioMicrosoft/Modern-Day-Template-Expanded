@@ -1,0 +1,15 @@
+characters={
+	SAU_Salman_bin_Abdulaziz={
+		name=SAU_Salman_bin_Abdulaziz
+		portraits={
+			civilian={
+				large="GFX_Portrait_SAU_Salman_bin_Abdulaziz"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

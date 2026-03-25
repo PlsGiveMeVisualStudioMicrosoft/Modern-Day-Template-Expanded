@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ALB_Parliament_of_Albania"
+		texturefile = "gfx/leaders/ALB/Portrait_ALB_Parliament_of_Albania.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ALB_Hysni_Milloshi"
+		texturefile = "gfx/leaders/ALB/Portrait_ALB_Hysni_Milloshi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ALB_Adriatik_Alimadhi"
+		texturefile = "gfx/leaders/ALB/Portrait_ALB_Adriatik_Alimadhi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ALB_Edi_Rama"
+		texturefile = "gfx/leaders/ALB/Portrait_ALB_Edi_Rama.dds"
+	}
+
+}

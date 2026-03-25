@@ -1,0 +1,15 @@
+characters={
+	TAH_douard_Fritch={
+		name=TAH_douard_Fritch
+		portraits={
+			civilian={
+				large="GFX_Portrait_TAH_douard_Fritch"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

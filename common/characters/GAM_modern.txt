@@ -1,0 +1,15 @@
+characters={
+	GAM_Adama_Barrow={
+		name=GAM_Adama_Barrow
+		portraits={
+			civilian={
+				large="GFX_Portrait_GAM_Adama_Barrow"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

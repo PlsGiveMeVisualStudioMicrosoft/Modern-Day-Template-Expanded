@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_MNT_Parliament_of_Montenegro"
+		texturefile = "gfx/leaders/MNT/Portrait_MNT_Parliament_of_Montenegro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MNT_Vladimir_Jokovic"
+		texturefile = "gfx/leaders/MNT/Portrait_MNT_Vladimir_Jokovic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MNT_Andrija_Mandic"
+		texturefile = "gfx/leaders/MNT/Portrait_MNT_Andrija_Mandic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MNT_Milo_Dukanovic"
+		texturefile = "gfx/leaders/MNT/Portrait_MNT_Milo_Dukanovic.dds"
+	}
+
+}

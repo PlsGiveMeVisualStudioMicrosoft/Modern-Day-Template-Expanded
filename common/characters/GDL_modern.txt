@@ -1,0 +1,15 @@
+characters={
+	GDL_Ariel_Henry={
+		name=GDL_Ariel_Henry
+		portraits={
+			civilian={
+				large="GFX_Portrait_GDL_Ariel_Henry"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

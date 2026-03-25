@@ -1,0 +1,15 @@
+characters={
+	SOL_Manasseh_Sogavare={
+		name=SOL_Manasseh_Sogavare
+		portraits={
+			civilian={
+				large="GFX_Portrait_SOL_Manasseh_Sogavare"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

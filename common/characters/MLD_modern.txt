@@ -1,0 +1,15 @@
+characters={
+	MLD_Ibrahim_Mohamed_Solih={
+		name=MLD_Ibrahim_Mohamed_Solih
+		portraits={
+			civilian={
+				large="GFX_Portrait_MLD_Ibrahim_Mohamed_Solih"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

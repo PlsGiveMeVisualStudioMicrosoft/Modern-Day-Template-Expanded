@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_MAC_Assembly_of_North_Macedonia"
+		texturefile = "gfx/leaders/MAC/Portrait_MAC_Assembly_of_North_Macedonia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MAC_Dimitar_Apasiev"
+		texturefile = "gfx/leaders/MAC/Portrait_MAC_Dimitar_Apasiev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MAC_Hristijan_Mickoski"
+		texturefile = "gfx/leaders/MAC/Portrait_MAC_Hristijan_Mickoski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MAC_Zoran_Zaev"
+		texturefile = "gfx/leaders/MAC/Portrait_MAC_Zoran_Zaev.dds"
+	}
+
+}

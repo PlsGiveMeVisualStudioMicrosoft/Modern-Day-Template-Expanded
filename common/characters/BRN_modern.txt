@@ -1,0 +1,15 @@
+characters={
+	BRN_Hassanal_Bolkiah={
+		name=BRN_Hassanal_Bolkiah
+		portraits={
+			civilian={
+				large="GFX_Portrait_BRN_Hassanal_Bolkiah"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

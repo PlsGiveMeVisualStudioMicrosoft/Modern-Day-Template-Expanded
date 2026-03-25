@@ -1,0 +1,15 @@
+characters={
+	MAD_Andry_Rajoelina={
+		name=MAD_Andry_Rajoelina
+		portraits={
+			civilian={
+				large="GFX_Portrait_MAD_Andry_Rajoelina"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

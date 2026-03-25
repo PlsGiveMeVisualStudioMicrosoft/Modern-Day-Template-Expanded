@@ -1,0 +1,15 @@
+characters={
+	SYR_Bashar_alAssad={
+		name=SYR_Bashar_alAssad
+		portraits={
+			civilian={
+				large="GFX_Portrait_SYR_Bashar_alAssad"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

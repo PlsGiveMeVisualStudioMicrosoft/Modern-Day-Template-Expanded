@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_CYP_House_of_Representatives"
+		texturefile = "gfx/leaders/CYP/Portrait_CYP_House_of_Representatives.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CYP_Andros_Kyprianou"
+		texturefile = "gfx/leaders/CYP/Portrait_CYP_Andros_Kyprianou.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CYP_Christos_Christou"
+		texturefile = "gfx/leaders/CYP/Portrait_CYP_Christos_Christou.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CYP_Averof_Neofytou"
+		texturefile = "gfx/leaders/CYP/Portrait_CYP_Averof_Neofytou.dds"
+	}
+
+}

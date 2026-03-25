@@ -1,0 +1,15 @@
+characters={
+	BHU_Jigme_Khesar_Namgyel_Wangchuck={
+		name=BHU_Jigme_Khesar_Namgyel_Wangchuck
+		portraits={
+			civilian={
+				large="GFX_Portrait_BHU_Jigme_Khesar_Namgyel_Wangchuck"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

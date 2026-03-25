@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ISR_Yair_Lapid"
+		texturefile = "gfx/leaders/ISR/Portrait_ISR_Yair_Lapid.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ISR_Ayman_Odeh"
+		texturefile = "gfx/leaders/ISR/Portrait_ISR_Ayman_Odeh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ISR_Avigdor_Lieberman"
+		texturefile = "gfx/leaders/ISR/Portrait_ISR_Avigdor_Lieberman.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ISR_Benjamin_Netanyahu"
+		texturefile = "gfx/leaders/ISR/Portrait_ISR_Benjamin_Netanyahu.dds"
+	}
+
+}

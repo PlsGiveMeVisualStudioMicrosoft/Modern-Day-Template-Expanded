@@ -1,0 +1,45 @@
+recruit_character = EGY_Abdel_Fattah_elSisi
+
+capital = 907
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+IF = {
+	limit = {
+		has_dlc = "Battle for the Bosporus"
+	}
+	set_technology = { camelry = 1 }
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_technology = {
+		gwtank = 1
+	}
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 16
+	fascism = 19
+	communism = 16
+	neutrality = 49
+}
+
+
+
+

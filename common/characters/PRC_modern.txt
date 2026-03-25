@@ -1,0 +1,15 @@
+characters={
+	PRC_Xi_Jinping={
+		name=PRC_Xi_Jinping
+		portraits={
+			civilian={
+				large="GFX_Portrait_PRC_Xi_Jinping"
+			}
+		}
+		country_leader={
+			ideology=neo_sovietism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

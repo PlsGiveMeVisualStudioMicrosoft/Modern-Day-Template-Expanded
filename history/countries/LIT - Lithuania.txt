@@ -1,0 +1,51 @@
+﻿capital = 11
+
+oob = "LIT_1936"
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "LIT_1936_air_bba"
+	else = {
+		set_air_oob = "LIT_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+		}
+	}
+}
+
+set_research_slots = 3
+
+set_variable = {
+	var = iron_wolf_days_var
+	value = 100
+}
+
+recruit_character = LIT_Lietuvos_Respublikos_Seimas #Democratic
+recruit_character = LIT_Eduardas_Vaitkus #Anti-Liberal
+recruit_character = LIT_Remigijus_Žemaitaitis #Nationalist
+recruit_character = LIT_Petras_Gražulis #Reactionary
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	tech_support = 1
+}
+
+set_convoys = 10
+
+
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2016.10.9"
+	election_frequency = 4
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 70
+	fascism = 5
+	communism = 5
+	neutrality = 20
+}
+

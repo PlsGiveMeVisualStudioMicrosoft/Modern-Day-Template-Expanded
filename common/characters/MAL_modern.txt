@@ -1,0 +1,15 @@
+characters={
+	MAL_Mahathir_Mohamad={
+		name=MAL_Mahathir_Mohamad
+		portraits={
+			civilian={
+				large="GFX_Portrait_MAL_Mahathir_Mohamad"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

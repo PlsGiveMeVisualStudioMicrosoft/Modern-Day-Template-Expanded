@@ -1,0 +1,61 @@
+characters={
+	LAT_Raivis_Zeltits={
+		name=LAT_Raivis_Zeltits
+		portraits={
+			civilian={
+				large="GFX_Portrait_LAT_Raivis_Zeltits"
+			}
+		}
+
+		country_leader={
+			ideology=ethno_nat
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+
+	LAT_Ainars_Slesers={
+			name=LAT_Ainars_Slesers
+			portraits={
+				civilian={
+					large="GFX_portrait_LAT_Ainars_Slesers"
+				}
+			}
+
+			country_leader={
+				ideology=right_wing_populism
+				expire="2083.1.1.1"
+				id=-1
+			}
+	}
+
+
+	LAT_Saeima={
+		name=LAT_Saeima
+		portraits={
+			civilian={
+				large="GFX_portrait_LAT_Saeima"
+			}
+		}
+		country_leader={
+			ideology=post_soviet_neo_liberalism
+			expire="2283.1.1.1"
+			id=-1
+		}
+	}
+
+	LAT_Vladimirs_Frolovs={
+		name=LAT_Vladimirs_Frolovs
+		portraits={
+			civilian={
+				large="GFX_portrait_LAT_Vladimirs_Frolovs"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+
+}

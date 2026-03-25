@@ -1,0 +1,87 @@
+spriteTypes = {
+
+# PAL
+	spriteType = {
+		name = "GFX_Portrait_PAL_Mahmoud_Abbas"
+		texturefile = "gfx/leaders/PAL/Portrait_PAL_Mahmoud_Abbas.dds"
+	}
+
+# JOR
+	spriteType = {
+		name = "GFX_Portrait_JOR_Abdullah_II"
+		texturefile = "gfx/leaders/JOR/Portrait_JOR_Abdullah_II.dds"
+	}
+
+# LEB
+	spriteType = {
+		name = "GFX_Portrait_LEB_Michel_Aoun"
+		texturefile = "gfx/leaders/LEB/Portrait_LEB_Michel_Aoun.dds"
+	}
+
+# SYR
+	spriteType = {
+		name = "GFX_Portrait_SYR_Bashar_alAssad"
+		texturefile = "gfx/leaders/SYR/Portrait_SYR_Bashar_alAssad.dds"
+	}
+
+# IRQ
+	spriteType = {
+		name = "GFX_Portrait_IRQ_Barham_Salih"
+		texturefile = "gfx/leaders/IRQ/Portrait_IRQ_Barham_Salih.dds"
+	}
+
+# SAU
+	spriteType = {
+		name = "GFX_Portrait_SAU_Salman_bin_Abdulaziz"
+		texturefile = "gfx/leaders/SAU/Portrait_SAU_Salman_bin_Abdulaziz.dds"
+	}
+
+# YEM
+	spriteType = {
+		name = "GFX_Portrait_YEM_Abd_Rabbuh_Mansur_Hadi"
+		texturefile = "gfx/leaders/YEM/Portrait_YEM_Abd_Rabbuh_Mansur_Hadi.dds"
+	}
+
+# OMA
+	spriteType = {
+		name = "GFX_Portrait_OMA_Haitham_bin_Tariq"
+		texturefile = "gfx/leaders/OMA/Portrait_OMA_Haitham_bin_Tariq.dds"
+	}
+
+# UAE
+	spriteType = {
+		name = "GFX_Portrait_UAE_Khalifa_bin_Zayed"
+		texturefile = "gfx/leaders/UAE/Portrait_UAE_Khalifa_bin_Zayed.dds"
+	}
+
+# QAT
+	spriteType = {
+		name = "GFX_Portrait_QAT_Tamim_bin_Hamad"
+		texturefile = "gfx/leaders/QAT/Portrait_QAT_Tamim_bin_Hamad.dds"
+	}
+
+# BHR
+	spriteType = {
+		name = "GFX_Portrait_BHR_Hamad_bin_Isa"
+		texturefile = "gfx/leaders/BHR/Portrait_BHR_Hamad_bin_Isa.dds"
+	}
+
+# KUW
+	spriteType = {
+		name = "GFX_Portrait_KUW_Sabah_AlAhmad"
+		texturefile = "gfx/leaders/KUW/Portrait_KUW_Sabah_AlAhmad.dds"
+	}
+
+# PER
+	spriteType = {
+		name = "GFX_Portrait_PER_Hassan_Rouhani"
+		texturefile = "gfx/leaders/PER/Portrait_PER_Hassan_Rouhani.dds"
+	}
+
+# AFG
+	spriteType = {
+		name = "GFX_Portrait_AFG_Ashraf_Ghani"
+		texturefile = "gfx/leaders/AFG/Portrait_AFG_Ashraf_Ghani.dds"
+	}
+
+}

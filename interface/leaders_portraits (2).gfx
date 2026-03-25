@@ -1,0 +1,75 @@
+spriteTypes = {
+
+# TMS
+	spriteType = {
+		name = "GFX_Portrait_TMS_Gurbanguly_Berdimuhamedow"
+		texturefile = "gfx/leaders/TMS/Portrait_TMS_Gurbanguly_Berdimuhamedow.dds"
+	}
+
+# UZB
+	spriteType = {
+		name = "GFX_Portrait_UZB_Shavkat_Mirziyoyev"
+		texturefile = "gfx/leaders/UZB/Portrait_UZB_Shavkat_Mirziyoyev.dds"
+	}
+
+# TAJ
+	spriteType = {
+		name = "GFX_Portrait_TAJ_Emomali_Rahmon"
+		texturefile = "gfx/leaders/TAJ/Portrait_TAJ_Emomali_Rahmon.dds"
+	}
+
+# KYR
+	spriteType = {
+		name = "GFX_Portrait_KYR_Sooronbay_Jeenbekov"
+		texturefile = "gfx/leaders/KYR/Portrait_KYR_Sooronbay_Jeenbekov.dds"
+	}
+
+# AFG
+	spriteType = {
+		name = "GFX_Portrait_AFG_Ashraf_Ghani"
+		texturefile = "gfx/leaders/AFG/Portrait_AFG_Ashraf_Ghani.dds"
+	}
+
+# PAK
+	spriteType = {
+		name = "GFX_Portrait_PAK_Imran_Khan"
+		texturefile = "gfx/leaders/PAK/Portrait_PAK_Imran_Khan.dds"
+	}
+
+# RAJ
+	spriteType = {
+		name = "GFX_Portrait_RAJ_Narendra_Modi"
+		texturefile = "gfx/leaders/RAJ/Portrait_RAJ_Narendra_Modi.dds"
+	}
+
+# NEP
+	spriteType = {
+		name = "GFX_Portrait_NEP_Bidhya_Devi_Bhandari"
+		texturefile = "gfx/leaders/NEP/Portrait_NEP_Bidhya_Devi_Bhandari.dds"
+	}
+
+# BHU
+	spriteType = {
+		name = "GFX_Portrait_BHU_Jigme_Khesar_Namgyel_Wangchuck"
+		texturefile = "gfx/leaders/BHU/Portrait_BHU_Jigme_Khesar_Namgyel_Wangchuck.dds"
+	}
+
+# BAN
+	spriteType = {
+		name = "GFX_Portrait_BAN_Sheikh_Hasina"
+		texturefile = "gfx/leaders/BAN/Portrait_BAN_Sheikh_Hasina.dds"
+	}
+
+# MLD
+	spriteType = {
+		name = "GFX_Portrait_MLD_Ibrahim_Mohamed_Solih"
+		texturefile = "gfx/leaders/MLD/Portrait_MLD_Ibrahim_Mohamed_Solih.dds"
+	}
+
+# SRL
+	spriteType = {
+		name = "GFX_Portrait_SRL_Maithripala_Sirisena"
+		texturefile = "gfx/leaders/SRL/Portrait_SRL_Maithripala_Sirisena.dds"
+	}
+
+}

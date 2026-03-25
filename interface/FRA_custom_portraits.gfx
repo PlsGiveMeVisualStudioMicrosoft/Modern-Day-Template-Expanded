@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_FRA_Emmanuel_Macron"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Emmanuel_Macron.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FRA_Jean-Luc_Mélenchon"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Jean-Luc_Mélenchon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FRA_Marine_Le_Pen"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Marine_Le_Pen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FRA_Bruno_Retailleau"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Bruno_Retailleau.dds"
+	}
+
+}

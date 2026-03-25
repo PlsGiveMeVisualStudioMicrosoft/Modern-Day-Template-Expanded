@@ -1,0 +1,15 @@
+characters={
+	CHA_Idriss_Dby={
+		name=CHA_Idriss_Dby
+		portraits={
+			civilian={
+				large="GFX_Portrait_CHA_Idriss_Dby"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

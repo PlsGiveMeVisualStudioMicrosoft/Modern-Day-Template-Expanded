@@ -1,0 +1,15 @@
+characters={
+	MLI_Ibrahim_Boubacar_Keta={
+		name=MLI_Ibrahim_Boubacar_Keta
+		portraits={
+			civilian={
+				large="GFX_Portrait_MLI_Ibrahim_Boubacar_Keta"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

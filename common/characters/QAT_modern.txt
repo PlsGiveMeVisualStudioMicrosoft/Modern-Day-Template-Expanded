@@ -1,0 +1,15 @@
+characters={
+	QAT_Tamim_bin_Hamad={
+		name=QAT_Tamim_bin_Hamad
+		portraits={
+			civilian={
+				large="GFX_Portrait_QAT_Tamim_bin_Hamad"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

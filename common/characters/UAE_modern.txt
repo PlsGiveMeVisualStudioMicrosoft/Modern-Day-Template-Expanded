@@ -1,0 +1,15 @@
+characters={
+	UAE_Khalifa_bin_Zayed={
+		name=UAE_Khalifa_bin_Zayed
+		portraits={
+			civilian={
+				large="GFX_Portrait_UAE_Khalifa_bin_Zayed"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,174 @@
+spriteTypes = {
+	#LAT
+	spriteType = {
+		name = "GFX_Portrait_LAT_Raivis_Zeltits"
+		texturefile = "gfx/leaders/LAT/Portrait_LAT_Raivis_Zeltits.dds" #We define a spritetype, so the game knows where to look
+	}
+	spriteType = {
+		name = "GFX_portrait_LAT_Vladimirs_Frolovs"
+		texturefile = "gfx/leaders/LAT/Portrait_LAT_Vladimirs_Frolovs.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_LAT_Ainars_Slesers"
+		texturefile = "gfx/leaders/LAT/Portrait_LAT_Ainars_Slesers.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_LAT_Saeima"
+		texturefile = "gfx/leaders/LAT/Portrait_LAT_Saeima.dds" 
+	}
+	#EST
+	spriteType = {
+		name = "GFX_Portrait_EST_Martin_Helme"
+		texturefile = "gfx/leaders/EST/Portrait_EST_Martin_Helme.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_EST_Sven_Kivisildnik"
+		texturefile = "gfx/leaders/EST/Portrait_EST_Sven_Kivisildnik.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_EST_Riigikogu"
+		texturefile = "gfx/leaders/EST/Portrait_EST_Riigikogu.dds" 
+	}		
+	#LIT
+	spriteType = {
+		name = "GFX_Portrait_LIT_Lietuvos_Respublikos_Seimas"
+		texturefile = "gfx/leaders/LIT/Portrait_LIT_Lietuvos_Respublikos_Seimas.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_LIT_Eduardas_Vaitkus"
+		texturefile = "gfx/leaders/LIT/Portrait_LIT_Eduardas_Vaitkus.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_LIT_Remigijus_Žemaitaitis"
+		texturefile = "gfx/leaders/LIT/Portrait_LIT_Remigijus_Žemaitaitis.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_LIT_Petras_Gražulis"
+		texturefile = "gfx/leaders/LIT/Portrait_LIT_Petras_Gražulis.dds"
+	}
+	#BLR
+	spriteType = {
+		name = "GFX_Portrait_BLR_Sviatlana_Tsikhanouskaya"
+		texturefile = "gfx/leaders/BLR/Portrait_BLR_Sviatlana_Tsikhanouskaya.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_BLR_Alexander_Lukashenko"
+		texturefile = "gfx/leaders/BLR/Portrait_BLR_Alexander_Lukashenko.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_BLR_United_Transitional_Cabinet"
+		texturefile = "gfx/leaders/BLR/Portrait_BLR_United_Transitional_Cabinet.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_BLR_Right_Alliance"
+		texturefile = "gfx/leaders/BLR/Portrait_BLR_Right_Alliance.dds"
+	}
+	#SOV
+	spriteType = {
+		name = "GFX_Portrait_SOV_Alexei_Anatolyevich_Navalny"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Alexei_Anatolyevich_Navalny.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SOV_Vladimir_Vladimirovich_Putin"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Vladimir_Vladimirovich_Putin.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SOV_Nikolay_Rybakov"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Nikolay_Rybakov.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SOV_Aleksandr_Gelyevich_Dugin"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Aleksandr_Gelyevich_Dugin.dds"
+	}
+	#UKR
+	spriteType = {
+		name = "GFX_Portrait_UKR_Volodymyr_Zelenskyy"
+		texturefile = "gfx/leaders/UKR/Portrait_UKR_Volodymyr_Zelenskyy.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_UKR_Yuriy_Boyko"
+		texturefile = "gfx/leaders/UKR/Portrait_UKR_Yuriy_Boyko.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_UKR_Azov"
+		texturefile = "gfx/leaders/UKR/Portrait_UKR_Azov.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_UKR_Oleh_Tyahnybok"
+		texturefile = "gfx/leaders/UKR/Portrait_UKR_Oleh_Tyahnybok.dds"
+	}
+	#KAZ
+	spriteType = {
+		name = "GFX_Portrait_KAZ_Azat_Peruaşev"
+		texturefile = "gfx/leaders/KAZ/Portrait_KAZ_Azat_Peruaşev.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_KAZ_Kassym-Jomart_Tokayev"
+		texturefile = "gfx/leaders/KAZ/Portrait_KAZ_Kassym-Jomart_Tokayev.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_KAZ_Aron_Atabek"
+		texturefile = "gfx/leaders/KAZ/Portrait_KAZ_Aron_Atabek.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_KAZ_Aron_Atabek_R"
+		texturefile = "gfx/leaders/KAZ/Portrait_KAZ_Aron_Atabek_R.dds"
+	}
+	#POL
+	spriteType = {
+		name = "GFX_Portrait_POL_Sejm"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Sejm.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_POL_Maciej_Maciak"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Maciej_Maciak.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_POL_Grzegorz_Braun"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Grzegorz_Braun.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_POL_Jarosław_Kaczyński"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Jarosław_Kaczyński.dds"
+	}
+	#MOL
+	spriteType = {
+		name = "GFX_Portrait_MOL_Parliament_of_Moldova"
+		texturefile = "gfx/leaders/MOL/Portrait_MOL_Parliament_of_Moldova.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_MOL_Igor_Dodon"
+		texturefile = "gfx/leaders/MOL/Portrait_MOL_Igor_Dodon.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_MOL_Svetlana_Chesari"
+		texturefile = "gfx/leaders/MOL/Portrait_MOL_Svetlana_Chesari.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_MOL_Ilan_Shor"
+		texturefile = "gfx/leaders/MOL/Portrait_MOL_Ilan_Shor.dds"
+	}
+	#ROM
+	spriteType = {
+		name = "GFX_Portrait_ROM_Parlamentul"
+		texturefile = "gfx/leaders/ROM/Portrait_ROM_Parlamentul.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_ROM_Diana_Sosoaca"
+		texturefile = "gfx/leaders/ROM/Portrait_ROM_Diana_Sosoaca.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_ROM_Corneliu_Vadim_Tudor"
+		texturefile = "gfx/leaders/ROM/Portrait_ROM_Corneliu_Vadim_Tudor.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_ROM_George_Simion"
+		texturefile = "gfx/leaders/ROM/Portrait_ROM_George_Simion.dds"
+	}
+	#SML
+	spriteType = {
+		name = "GFX_Portrait_SML_Golaha_Wakiilada"
+		texturefile = "gfx/leaders/SML/Portrait_SML_Golaha_Wakiilada.dds"
+	}
+
+}

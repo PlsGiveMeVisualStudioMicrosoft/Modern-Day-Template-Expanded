@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_CRO_Sabor"
+		texturefile = "gfx/leaders/CRO/Portrait_CRO_Sabor.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CRO_Katarina_Peović"
+		texturefile = "gfx/leaders/CRO/Portrait_CRO_Katarina_Peović.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CRO_Karlo_Starčević"
+		texturefile = "gfx/leaders/CRO/Portrait_CRO_Karlo_Starčević.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CRO_Andrej_Plenković"
+		texturefile = "gfx/leaders/CRO/Portrait_CRO_Andrej_Plenković.dds"
+	}
+
+}

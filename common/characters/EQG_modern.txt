@@ -1,0 +1,15 @@
+characters={
+	EQG_Teodoro_Obiang_Nguema={
+		name=EQG_Teodoro_Obiang_Nguema
+		portraits={
+			civilian={
+				large="GFX_Portrait_EQG_Teodoro_Obiang_Nguema"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

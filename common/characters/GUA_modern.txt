@@ -1,0 +1,15 @@
+characters={
+	GUA_Jimmy_Morales={
+		name=GUA_Jimmy_Morales
+		portraits={
+			civilian={
+				large="GFX_Portrait_GUA_Jimmy_Morales"
+			}
+		}
+		country_leader={
+			ideology=right_wing_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

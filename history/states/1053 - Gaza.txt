@@ -1,0 +1,27 @@
+state = {
+	id = 1053
+	name = "STATE_1053" #Gaza
+	manpower = 2421400
+	
+	state_category = rural
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 1
+		}
+		
+	}
+
+	provinces = {
+		13385
+	}
+
+	local_supplies = 0.0 
+}

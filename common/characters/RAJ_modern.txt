@@ -1,0 +1,15 @@
+characters={
+	RAJ_Narendra_Modi={
+		name=RAJ_Narendra_Modi
+		portraits={
+			civilian={
+				large="GFX_Portrait_RAJ_Narendra_Modi"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

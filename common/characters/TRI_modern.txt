@@ -1,0 +1,15 @@
+characters={
+	TRI_Keith_Rowley={
+		name=TRI_Keith_Rowley
+		portraits={
+			civilian={
+				large="GFX_Portrait_TRI_Keith_Rowley"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

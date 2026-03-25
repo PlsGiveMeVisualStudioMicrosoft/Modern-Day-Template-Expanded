@@ -1,0 +1,15 @@
+characters={
+	GNB_Jos_Mrio_Vaz={
+		name=GNB_Jos_Mrio_Vaz
+		portraits={
+			civilian={
+				large="GFX_Portrait_GNB_Jos_Mrio_Vaz"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

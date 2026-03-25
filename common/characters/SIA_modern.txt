@@ -1,0 +1,15 @@
+characters={
+	SIA_Maha_Vajiralongkorn={
+		name=SIA_Maha_Vajiralongkorn
+		portraits={
+			civilian={
+				large="GFX_Portrait_SIA_Maha_Vajiralongkorn"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

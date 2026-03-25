@@ -1,0 +1,15 @@
+characters={
+	COS_Carlos_Alvarado_Quesada={
+		name=COS_Carlos_Alvarado_Quesada
+		portraits={
+			civilian={
+				large="GFX_Portrait_COS_Carlos_Alvarado_Quesada"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

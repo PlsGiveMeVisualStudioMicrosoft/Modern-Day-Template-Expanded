@@ -1,0 +1,90 @@
+
+IRQ_arab_free_legion_cat = {
+	icon = GFX_decision_category_ger_reichskommissariats
+	priority = 20
+	#picture = GFX_decision_cat_picture_NOR_preparedness
+	visible_when_empty = no	
+	allowed = {
+		original_tag = IRQ
+		OR = {
+			has_government = fascism
+			has_government = neutrality
+		}
+		has_global_flag = reenable_vanilla_decisions
+	}
+
+	visible = {
+		
+	}
+}
+
+greater_iraq_decision_cat = {
+	icon = GFX_decision_category_generic_political_actions
+	priority = 20
+	#picture = GFX_decision_cat_picture_NOR_preparedness
+	visible_when_empty = no	
+	allowed = {
+		original_tag = IRQ
+		has_global_flag = reenable_vanilla_decisions
+	}
+
+	visible = {
+		
+	}
+}
+
+united_arab_republic_cat ={
+	icon = GFX_decision_category_generic_political_actions
+	priority = 20
+	#picture = GFX_decision_cat_picture_NOR_preparedness
+	visible_when_empty = no	
+	allowed = {
+		original_tag = IRQ
+		has_global_flag = reenable_vanilla_decisions
+	}
+
+	visible = {
+		
+	}
+}
+
+hashemite_federation_cat = {
+	icon = GFX_decision_category_generic_political_actions
+	priority = 20
+	#picture = GFX_decision_cat_picture_NOR_preparedness
+	visible_when_empty = no	
+	allowed = {
+		original_tag = IRQ
+		has_global_flag = reenable_vanilla_decisions
+	}
+
+	visible = {
+		
+	}
+}
+
+IRQ_flood_the_plains_cat = {
+	icon = GFX_decision_category_border_conflicts
+	
+	allowed = {
+		original_tag = IRQ
+		has_global_flag = reenable_vanilla_decisions
+	}
+}
+
+KUR_syrian_border_skrimish_cat = {
+	
+	icon = GFX_decision_category_infiltration
+	priority = 100
+
+	allowed = {
+		original_tag = IRQ
+		has_global_flag = reenable_vanilla_decisions
+	}
+
+	visible = {
+		has_completed_focus = IRQ_kurdish_reject_ankara_treaty
+	}
+
+}
+

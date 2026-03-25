@@ -1,0 +1,15 @@
+characters={
+	DAH_Patrice_Talon={
+		name=DAH_Patrice_Talon
+		portraits={
+			civilian={
+				large="GFX_Portrait_DAH_Patrice_Talon"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

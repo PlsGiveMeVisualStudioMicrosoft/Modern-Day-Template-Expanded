@@ -1,0 +1,15 @@
+characters={
+	SAF_Cyril_Ramaphosa={
+		name=SAF_Cyril_Ramaphosa
+		portraits={
+			civilian={
+				large="GFX_Portrait_SAF_Cyril_Ramaphosa"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

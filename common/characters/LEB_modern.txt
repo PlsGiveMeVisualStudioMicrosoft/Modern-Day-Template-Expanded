@@ -1,0 +1,15 @@
+characters={
+	LEB_Michel_Aoun={
+		name=LEB_Michel_Aoun
+		portraits={
+			civilian={
+				large="GFX_Portrait_LEB_Michel_Aoun"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

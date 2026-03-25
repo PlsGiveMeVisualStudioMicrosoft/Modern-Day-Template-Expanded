@@ -1,0 +1,15 @@
+characters={
+	GNA_Alpha_Cond={
+		name=GNA_Alpha_Cond
+		portraits={
+			civilian={
+				large="GFX_Portrait_GNA_Alpha_Cond"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

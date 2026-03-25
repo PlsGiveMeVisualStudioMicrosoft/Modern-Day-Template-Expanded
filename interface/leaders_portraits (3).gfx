@@ -1,0 +1,141 @@
+spriteTypes = {
+
+# MON
+	spriteType = {
+		name = "GFX_Portrait_MON_Khaltmaagiin_Battulga"
+		texturefile = "gfx/leaders/MON/Portrait_MON_Khaltmaagiin_Battulga.dds"
+	}
+
+# PRC
+	spriteType = {
+		name = "GFX_Portrait_PRC_Xi_Jinping"
+		texturefile = "gfx/leaders/PRC/Portrait_PRC_Xi_Jinping.dds"
+	}
+
+# BRM
+	spriteType = {
+		name = "GFX_Portrait_BRM_Win_Myint"
+		texturefile = "gfx/leaders/BRM/Portrait_BRM_Win_Myint.dds"
+	}
+
+# SIA
+	spriteType = {
+		name = "GFX_Portrait_SIA_Maha_Vajiralongkorn"
+		texturefile = "gfx/leaders/SIA/Portrait_SIA_Maha_Vajiralongkorn.dds"
+	}
+
+# VIN
+	spriteType = {
+		name = "GFX_Portrait_VIN_Nguyn_Ph_Trng"
+		texturefile = "gfx/leaders/VIN/Portrait_VIN_Nguyn_Ph_Trng.dds"
+	}
+
+# CAM
+	spriteType = {
+		name = "GFX_Portrait_CAM_Norodom_Sihamoni"
+		texturefile = "gfx/leaders/CAM/Portrait_CAM_Norodom_Sihamoni.dds"
+	}
+
+# LAO
+	spriteType = {
+		name = "GFX_Portrait_LAO_Bounnhang_Vorachith"
+		texturefile = "gfx/leaders/LAO/Portrait_LAO_Bounnhang_Vorachith.dds"
+	}
+
+# MAL
+	spriteType = {
+		name = "GFX_Portrait_MAL_Mahathir_Mohamad"
+		texturefile = "gfx/leaders/MAL/Portrait_MAL_Mahathir_Mohamad.dds"
+	}
+
+# BRN
+	spriteType = {
+		name = "GFX_Portrait_BRN_Hassanal_Bolkiah"
+		texturefile = "gfx/leaders/BRN/Portrait_BRN_Hassanal_Bolkiah.dds"
+	}
+
+# INS
+	spriteType = {
+		name = "GFX_Portrait_INS_Joko_Widodo"
+		texturefile = "gfx/leaders/INS/Portrait_INS_Joko_Widodo.dds"
+	}
+
+# TML
+	spriteType = {
+		name = "GFX_Portrait_TML_Francisco_Guterres"
+		texturefile = "gfx/leaders/TML/Portrait_TML_Francisco_Guterres.dds"
+	}
+
+# PNG
+	spriteType = {
+		name = "GFX_Portrait_PNG_Peter_ONeill"
+		texturefile = "gfx/leaders/PNG/Portrait_PNG_Peter_ONeill.dds"
+	}
+
+# SOL
+	spriteType = {
+		name = "GFX_Portrait_SOL_Manasseh_Sogavare"
+		texturefile = "gfx/leaders/SOL/Portrait_SOL_Manasseh_Sogavare.dds"
+	}
+
+# AST
+	spriteType = {
+		name = "GFX_Portrait_AST_Scott_Morrison"
+		texturefile = "gfx/leaders/AST/Portrait_AST_Scott_Morrison.dds"
+	}
+
+# NZL
+	spriteType = {
+		name = "GFX_Portrait_NZL_Jacinda_Ardern"
+		texturefile = "gfx/leaders/NZL/Portrait_NZL_Jacinda_Ardern.dds"
+	}
+
+# TAH
+	spriteType = {
+		name = "GFX_Portrait_TAH_douard_Fritch"
+		texturefile = "gfx/leaders/TAH/Portrait_TAH_douard_Fritch.dds"
+	}
+
+# FIJ
+	spriteType = {
+		name = "GFX_Portrait_FIJ_Josaia_Voreqe_Bainimarama"
+		texturefile = "gfx/leaders/FIJ/Portrait_FIJ_Josaia_Voreqe_Bainimarama.dds"
+	}
+
+# FSM
+	spriteType = {
+		name = "GFX_Portrait_FSM_David_W_Panuelo"
+		texturefile = "gfx/leaders/FSM/Portrait_FSM_David_W_Panuelo.dds"
+	}
+
+# GUM
+	spriteType = {
+		name = "GFX_Portrait_GUM_Lou_Leon_Guerrero"
+		texturefile = "gfx/leaders/GUM/Portrait_GUM_Lou_Leon_Guerrero.dds"
+	}
+
+# CHI
+	spriteType = {
+		name = "GFX_Portrait_CHI_Tsai_Ingwen"
+		texturefile = "gfx/leaders/CHI/Portrait_CHI_Tsai_Ingwen.dds"
+	}
+
+# NKO
+	spriteType = {
+		name = "GFX_Portrait_NKO_Kim_Jongun"
+		texturefile = "gfx/leaders/NKO/Portrait_NKO_Kim_Jongun.dds"
+	}
+
+# KOR
+	spriteType = {
+		name = "GFX_Portrait_KOR_Moon_Jaein"
+		texturefile = "gfx/leaders/KOR/Portrait_KOR_Moon_Jaein.dds"
+	}
+
+# PHI
+	spriteType = {
+		name = "GFX_Portrait_PHI_Rodrigo_Duterte"
+		texturefile = "gfx/leaders/PHI/Portrait_PHI_Rodrigo_Duterte.dds"
+	}
+
+}

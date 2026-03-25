@@ -1,0 +1,15 @@
+characters={
+	NGR_Mahamadou_Issoufou={
+		name=NGR_Mahamadou_Issoufou
+		portraits={
+			civilian={
+				large="GFX_Portrait_NGR_Mahamadou_Issoufou"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

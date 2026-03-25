@@ -1,0 +1,15 @@
+characters={
+	USA_Donald_Trump={
+		name=USA_Donald_Trump
+		portraits={
+			civilian={
+				large="GFX_Portrait_USA_Donald_Trump"
+			}
+		}
+		country_leader={
+			ideology=right_wing_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

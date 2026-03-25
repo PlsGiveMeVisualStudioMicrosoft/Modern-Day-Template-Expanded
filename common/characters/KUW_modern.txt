@@ -1,0 +1,15 @@
+characters={
+	KUW_Sabah_AlAhmad={
+		name=KUW_Sabah_AlAhmad
+		portraits={
+			civilian={
+				large="GFX_Portrait_KUW_Sabah_AlAhmad"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

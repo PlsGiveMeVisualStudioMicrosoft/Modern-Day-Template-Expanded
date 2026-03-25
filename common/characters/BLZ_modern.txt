@@ -1,0 +1,15 @@
+characters={
+	BLZ_Dean_Barrow={
+		name=BLZ_Dean_Barrow
+		portraits={
+			civilian={
+				large="GFX_Portrait_BLZ_Dean_Barrow"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

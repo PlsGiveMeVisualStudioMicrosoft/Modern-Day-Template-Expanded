@@ -1,0 +1,203 @@
+# Blank border war events
+
+add_namespace = china
+add_namespace = bftb_greece
+add_namespace = SEA_PRC_border_war_events
+add_namespace = japan
+country_event = {
+	id = bftb_greece.35
+	title = bftb_greece.35.t
+	desc = bftb_greece.35.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = bftb_greece.35.a
+	}
+}
+
+country_event = {
+	id = bftb_greece.38
+	title = bftb_greece.38.t
+	desc = bftb_greece.38.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = bftb_greece.38.a
+	}
+}
+
+country_event = {
+	id = china.13
+	title = china.13.t
+	desc = china.13.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = china.13.a
+	}
+}
+
+country_event = {
+	id = china.14
+	title = china.14.t
+	desc = china.14.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = china.14.a
+	}
+}
+
+country_event = {
+	id = china.16
+	title = china.16.t
+	desc = china.16.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = china.16.a
+	}
+}
+
+country_event = {
+	id = china.18
+	title = china.18.t
+	desc = china.18.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = china.18.a
+	}
+}
+
+
+country_event = {
+	id = SEA_PRC_border_war_events.1
+	title = SEA_PRC_border_war_events.1.t
+	desc = SEA_PRC_border_war_events.1.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.1.a
+	}
+}
+
+country_event = {
+	id = SEA_PRC_border_war_events.2
+	title = SEA_PRC_border_war_events.2.t
+	desc = SEA_PRC_border_war_events.2.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.2.a
+	}
+}
+
+country_event = {
+	id = SEA_PRC_border_war_events.3
+	title = SEA_PRC_border_war_events.3.t
+	desc = SEA_PRC_border_war_events.3.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.3.a
+	}
+}
+
+country_event = {
+	id = SEA_PRC_border_war_events.4
+	title = SEA_PRC_border_war_events.4.t
+	desc = SEA_PRC_border_war_events.4.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.4.a
+	}
+}
+
+country_event = {
+	id = SEA_PRC_border_war_events.5
+	title = SEA_PRC_border_war_events.5.t
+	desc = SEA_PRC_border_war_events.5.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.5.a
+	}
+}
+
+country_event = {
+	id = SEA_PRC_border_war_events.6
+	title = SEA_PRC_border_war_events.6.t
+	desc = SEA_PRC_border_war_events.6.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_PRC_border_war_events.6.a
+	}
+}
+# Blank border skirmish events - japan.3 / japan.4
+
+country_event = {
+	id = japan.3
+	title = japan.3.t
+	desc = japan.3.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan.3.a
+	}
+}
+
+country_event = {
+	id = japan.4
+	title = japan.4.t
+	desc = japan.4.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan.4.a
+	}
+}

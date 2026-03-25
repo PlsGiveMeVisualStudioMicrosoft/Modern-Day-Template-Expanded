@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_NOR_Storting"
+		texturefile = "gfx/leaders/NOR/Portrait_NOR_Storting.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOR_Bjornar_Moxnes"
+		texturefile = "gfx/leaders/NOR/Portrait_NOR_Bjornar_Moxnes.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOR_Sylvi_Listhaug"
+		texturefile = "gfx/leaders/NOR/Portrait_NOR_Sylvi_Listhaug.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_NOR_Trygve_Slagsvold_Vedum"
+		texturefile = "gfx/leaders/NOR/Portrait_NOR_Trygve_Slagsvold_Vedum.dds"
+	}
+
+}

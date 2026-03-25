@@ -1,0 +1,15 @@
+characters={
+	CHI_Tsai_Ingwen={
+		name=CHI_Tsai_Ingwen
+		portraits={
+			civilian={
+				large="GFX_Portrait_CHI_Tsai_Ingwen"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

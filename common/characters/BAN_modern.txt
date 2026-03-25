@@ -1,0 +1,15 @@
+characters={
+	BAN_Sheikh_Hasina={
+		name=BAN_Sheikh_Hasina
+		portraits={
+			civilian={
+				large="GFX_Portrait_BAN_Sheikh_Hasina"
+			}
+		}
+		country_leader={
+			ideology=neo_sovietism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

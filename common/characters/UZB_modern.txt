@@ -1,0 +1,15 @@
+characters={
+	UZB_Shavkat_Mirziyoyev={
+		name=UZB_Shavkat_Mirziyoyev
+		portraits={
+			civilian={
+				large="GFX_Portrait_UZB_Shavkat_Mirziyoyev"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

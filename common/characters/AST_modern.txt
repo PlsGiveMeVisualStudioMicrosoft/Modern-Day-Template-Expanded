@@ -1,0 +1,15 @@
+characters={
+	AST_Scott_Morrison={
+		name=AST_Scott_Morrison
+		portraits={
+			civilian={
+				large="GFX_Portrait_AST_Scott_Morrison"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

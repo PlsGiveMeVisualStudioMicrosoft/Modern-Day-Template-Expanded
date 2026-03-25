@@ -1,0 +1,15 @@
+characters={
+	LIB_George_Weah={
+		name=LIB_George_Weah
+		portraits={
+			civilian={
+				large="GFX_Portrait_LIB_George_Weah"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

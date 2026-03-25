@@ -1,0 +1,15 @@
+characters={
+	KOR_Moon_Jaein={
+		name=KOR_Moon_Jaein
+		portraits={
+			civilian={
+				large="GFX_Portrait_KOR_Moon_Jaein"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

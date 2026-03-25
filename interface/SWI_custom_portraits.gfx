@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SWI_National_Council"
+		texturefile = "gfx/leaders/SWI/Portrait_SWI_National_Council.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWI_Norberto_Crivelli"
+		texturefile = "gfx/leaders/SWI/Portrait_SWI_Norberto_Crivelli.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWI_Nicolas_A_Rimoldi"
+		texturefile = "gfx/leaders/SWI/Portrait_SWI_Nicolas_A._Rimoldi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWI_Adrian_Pulver"
+		texturefile = "gfx/leaders/SWI/Portrait_SWI_Adrian_Pulver.dds"
+	}
+
+}

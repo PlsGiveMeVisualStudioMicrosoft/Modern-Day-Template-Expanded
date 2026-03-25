@@ -1,0 +1,15 @@
+characters={
+	BRM_Win_Myint={
+		name=BRM_Win_Myint
+		portraits={
+			civilian={
+				large="GFX_Portrait_BRM_Win_Myint"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

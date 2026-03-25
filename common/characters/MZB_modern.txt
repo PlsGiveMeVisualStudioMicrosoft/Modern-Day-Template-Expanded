@@ -1,0 +1,15 @@
+characters={
+	MZB_Filipe_Nyusi={
+		name=MZB_Filipe_Nyusi
+		portraits={
+			civilian={
+				large="GFX_Portrait_MZB_Filipe_Nyusi"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_KOS_Assembly_of_Kosovo"
+		texturefile = "gfx/leaders/KOS/Portrait_KOS_Assembly_of_Kosovo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_KOS_Albin_Kurti"
+		texturefile = "gfx/leaders/KOS/Portrait_KOS_Albin_Kurti.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_KOS_Ramush_Haradinaj"
+		texturefile = "gfx/leaders/KOS/Portrait_KOS_Ramush_Haradinaj.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_KOS_Kadri_Veseli"
+		texturefile = "gfx/leaders/KOS/Portrait_KOS_Kadri_Veseli.dds"
+	}
+
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_GER_Bundestag"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Bundestag.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GER_Johann_Thießen"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Johann_Thießen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GER_Alice_Weidel"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Alice_Weidel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GER_Friedrich_Merz"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Friedrich_Merz.dds"
+	}
+
+}

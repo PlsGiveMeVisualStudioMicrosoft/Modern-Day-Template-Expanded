@@ -1,0 +1,15 @@
+characters={
+	NKO_Kim_Jongun={
+		name=NKO_Kim_Jongun
+		portraits={
+			civilian={
+				large="GFX_Portrait_NKO_Kim_Jongun"
+			}
+		}
+		country_leader={
+			ideology=neo_sovietism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

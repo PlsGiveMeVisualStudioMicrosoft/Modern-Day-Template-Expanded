@@ -1,0 +1,15 @@
+characters={
+	KYR_Sooronbay_Jeenbekov={
+		name=KYR_Sooronbay_Jeenbekov
+		portraits={
+			civilian={
+				large="GFX_Portrait_KYR_Sooronbay_Jeenbekov"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

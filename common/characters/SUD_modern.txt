@@ -1,0 +1,15 @@
+characters={
+	SUD_Abdalla_Hamdok={
+		name=SUD_Abdalla_Hamdok
+		portraits={
+			civilian={
+				large="GFX_Portrait_SUD_Abdalla_Hamdok"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

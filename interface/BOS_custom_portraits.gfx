@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_BOS_Parliamentary_Assembly_of_Bosnia_and_Herzegovina"
+		texturefile = "gfx/leaders/BOS/Portrait_BOS_Parliamentary_Assembly_of_Bosnia_and_Herzegovina.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOS_Nermin_Nikšic"
+		texturefile = "gfx/leaders/BOS/Portrait_BOS_Nermin_Nikšic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOS_Bakir_Izetbegovic"
+		texturefile = "gfx/leaders/BOS/Portrait_BOS_Bakir_Izetbegovic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOS_Milorad_Dodik"
+		texturefile = "gfx/leaders/BOS/Portrait_BOS_Milorad_Dodik.dds"
+	}
+
+}

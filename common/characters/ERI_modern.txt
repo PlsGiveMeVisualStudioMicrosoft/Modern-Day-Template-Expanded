@@ -1,0 +1,15 @@
+characters={
+	ERI_Isaias_Afwerki={
+		name=ERI_Isaias_Afwerki
+		portraits={
+			civilian={
+				large="GFX_Portrait_ERI_Isaias_Afwerki"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

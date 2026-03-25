@@ -1,0 +1,15 @@
+characters={
+	VOL_Roch_Marc_Christian_Kabor={
+		name=VOL_Roch_Marc_Christian_Kabor
+		portraits={
+			civilian={
+				large="GFX_Portrait_VOL_Roch_Marc_Christian_Kabor"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

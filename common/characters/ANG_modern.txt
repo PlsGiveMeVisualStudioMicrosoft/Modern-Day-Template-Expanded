@@ -1,0 +1,15 @@
+characters={
+	ANG_Joo_Loureno={
+		name=ANG_Joo_Loureno
+		portraits={
+			civilian={
+				large="GFX_Portrait_ANG_Joo_Loureno"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

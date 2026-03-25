@@ -1,0 +1,15 @@
+characters={
+	JAM_Andrew_Holness={
+		name=JAM_Andrew_Holness
+		portraits={
+			civilian={
+				large="GFX_Portrait_JAM_Andrew_Holness"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

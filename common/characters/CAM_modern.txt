@@ -1,0 +1,15 @@
+characters={
+	CAM_Norodom_Sihamoni={
+		name=CAM_Norodom_Sihamoni
+		portraits={
+			civilian={
+				large="GFX_Portrait_CAM_Norodom_Sihamoni"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

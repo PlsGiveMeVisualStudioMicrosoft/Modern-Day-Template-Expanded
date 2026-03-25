@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_POR_Assembly_of_the_Republic"
+		texturefile = "gfx/leaders/POR/Portrait_POR_Assembly_of_the_Republic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_POR_Jeronimo_de_Sousa"
+		texturefile = "gfx/leaders/POR/Portrait_POR_Jeronimo_de_Sousa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_POR_Andre_Ventura"
+		texturefile = "gfx/leaders/POR/Portrait_POR_Andre_Ventura.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_POR_Jose_Pinto-Coelho"
+		texturefile = "gfx/leaders/POR/Portrait_POR_Jose_Pinto-Coelho.dds"
+	}
+
+}

@@ -1,0 +1,15 @@
+characters={
+	EGY_Abdel_Fattah_elSisi={
+		name=EGY_Abdel_Fattah_elSisi
+		portraits={
+			civilian={
+				large="GFX_Portrait_EGY_Abdel_Fattah_elSisi"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

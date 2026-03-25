@@ -1,0 +1,15 @@
+characters={
+	PAN_Laurentino_Cortizo={
+		name=PAN_Laurentino_Cortizo
+		portraits={
+			civilian={
+				large="GFX_Portrait_PAN_Laurentino_Cortizo"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

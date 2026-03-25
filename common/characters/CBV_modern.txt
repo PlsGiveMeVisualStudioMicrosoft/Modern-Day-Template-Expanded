@@ -1,0 +1,15 @@
+characters={
+	CBV_Jorge_Carlos_Fonseca={
+		name=CBV_Jorge_Carlos_Fonseca
+		portraits={
+			civilian={
+				large="GFX_Portrait_CBV_Jorge_Carlos_Fonseca"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

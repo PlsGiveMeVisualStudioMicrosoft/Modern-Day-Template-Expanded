@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_BUL_National_Assembly_of_Bulgaria"
+		texturefile = "gfx/leaders/BUL/Portrait_BUL_National_Assembly_of_Bulgaria.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BUL_Korneliya_Ninova"
+		texturefile = "gfx/leaders/BUL/Portrait_BUL_Korneliya_Ninova.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BUL_Volen_Siderov"
+		texturefile = "gfx/leaders/BUL/Portrait_BUL_Volen_Siderov.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BUL_Boyko_Borisov"
+		texturefile = "gfx/leaders/BUL/Portrait_BUL_Boyko_Borisov.dds"
+	}
+
+}

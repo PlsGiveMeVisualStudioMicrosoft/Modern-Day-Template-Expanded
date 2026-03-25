@@ -1,0 +1,15 @@
+characters={
+	SIE_Julius_Maada_Bio={
+		name=SIE_Julius_Maada_Bio
+		portraits={
+			civilian={
+				large="GFX_Portrait_SIE_Julius_Maada_Bio"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

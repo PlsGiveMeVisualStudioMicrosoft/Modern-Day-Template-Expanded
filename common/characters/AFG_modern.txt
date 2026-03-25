@@ -1,0 +1,15 @@
+characters={
+	AFG_Ashraf_Ghani={
+		name=AFG_Ashraf_Ghani
+		portraits={
+			civilian={
+				large="GFX_Portrait_AFG_Ashraf_Ghani"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SWE_Riksdag"
+		texturefile = "gfx/leaders/SWE/Portrait_SWE_Riksdag.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWE_Nooshi_Dadgostar"
+		texturefile = "gfx/leaders/SWE/Portrait_SWE_Nooshi_Dadgostar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWE_Jimmie_Akesson"
+		texturefile = "gfx/leaders/SWE/Portrait_SWE_Jimmie_Akesson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SWE_Ebba_Busch"
+		texturefile = "gfx/leaders/SWE/Portrait_SWE_Ebba_Busch.dds"
+	}
+
+}

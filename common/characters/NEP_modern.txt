@@ -1,0 +1,15 @@
+characters={
+	NEP_Bidhya_Devi_Bhandari={
+		name=NEP_Bidhya_Devi_Bhandari
+		portraits={
+			civilian={
+				large="GFX_Portrait_NEP_Bidhya_Devi_Bhandari"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

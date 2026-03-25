@@ -1,0 +1,15 @@
+characters={
+	MOR_Mohammed_VI={
+		name=MOR_Mohammed_VI
+		portraits={
+			civilian={
+				large="GFX_Portrait_MOR_Mohammed_VI"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

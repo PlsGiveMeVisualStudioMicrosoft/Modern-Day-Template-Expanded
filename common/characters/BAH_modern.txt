@@ -1,0 +1,15 @@
+characters={
+	BAH_Hubert_Minnis={
+		name=BAH_Hubert_Minnis
+		portraits={
+			civilian={
+				large="GFX_Portrait_BAH_Hubert_Minnis"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

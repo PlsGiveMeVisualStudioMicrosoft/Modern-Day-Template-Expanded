@@ -1,0 +1,15 @@
+characters={
+	NIC_Daniel_Ortega={
+		name=NIC_Daniel_Ortega
+		portraits={
+			civilian={
+				large="GFX_Portrait_NIC_Daniel_Ortega"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

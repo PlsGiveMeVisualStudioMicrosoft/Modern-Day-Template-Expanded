@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SLO_Michal_Simecka"
+		texturefile = "gfx/leaders/SLO/Portrait_SLO_Michal_Simecka.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLO_Robert_Fico"
+		texturefile = "gfx/leaders/SLO/Portrait_SLO_Robert_Fico.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLO_Boris_Kollar"
+		texturefile = "gfx/leaders/SLO/Portrait_SLO_Boris_Kollar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLO_Andrej_Danko"
+		texturefile = "gfx/leaders/SLO/Portrait_SLO_Andrej_Danko.dds"
+	}
+
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_LUX_Chamber_of_Deputies"
+		texturefile = "gfx/leaders/LUX/Portrait_LUX_Chamber_of_Deputies.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_LUX_Ali_Ruckert"
+		texturefile = "gfx/leaders/LUX/Portrait_LUX_Ali_Ruckert.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_LUX_Jean_Schoos"
+		texturefile = "gfx/leaders/LUX/Portrait_LUX_Jean_Schoos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_LUX_Jean_Schoos"
+		texturefile = "gfx/leaders/LUX/Portrait_LUX_Jean_Schoos.dds"
+	}
+
+}

@@ -1,0 +1,15 @@
+characters={
+	PAK_Imran_Khan={
+		name=PAK_Imran_Khan
+		portraits={
+			civilian={
+				large="GFX_Portrait_PAK_Imran_Khan"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

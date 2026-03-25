@@ -1,0 +1,111 @@
+capital = 37
+
+if = {
+	limit = { has_dlc = "Arms Against Tyranny" }
+	set_country_flag = DEN_danish_election_flag
+}
+
+
+oob = "DEN_1936"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "DEN_1936_naval_mtg"
+	else = {
+		set_naval_oob = "DEN_1936_naval_legacy"
+	}
+}
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "DEN_1936_air_bba"
+	else = {
+		set_air_oob = "DEN_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			cv_early_fighter = 1
+
+		}
+	}
+}
+
+# Diplomacy
+
+#### COUNTRY LEADERS ####
+
+
+set_research_slots = 3
+set_stability = 0.9
+set_war_support = 0.1
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1
+}
+
+#### TECH SET UP
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_cruiser_armor_scheme = 1
+		basic_torpedo = 1
+		coastal_defense_ships = 1
+		mtg_transport = 1
+	}
+}
+
+
+set_popularities = {
+	democratic = 94
+	fascism = 1
+	communism = 2
+	neutrality = 3
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2015.6.18"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+
+
+
+set_convoys = 55
+
+add_equipment_to_stockpile = {
+	type = train_equipment_1
+	amount = 7
+}
+
+# 1939 Start #
+
+
+# Custom characters added by HOI4 Character Generator
+recruit_character = DEN_Folketing
+recruit_character = DEN_Pernille_Skipper
+recruit_character = DEN_Pernille_Vermund
+recruit_character = DEN_Kristian_Thulesen_Dahl
+
+
+

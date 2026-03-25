@@ -1,0 +1,15 @@
+characters={
+	NMB_Hage_Geingob={
+		name=NMB_Hage_Geingob
+		portraits={
+			civilian={
+				large="GFX_Portrait_NMB_Hage_Geingob"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	MON_Khaltmaagiin_Battulga={
+		name=MON_Khaltmaagiin_Battulga
+		portraits={
+			civilian={
+				large="GFX_Portrait_MON_Khaltmaagiin_Battulga"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_GEO_Irakli_Kobakhidze"
+		texturefile = "gfx/leaders/GEO/Portrait_GEO_Irakli_Kobakhidze.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GEO_Levan_Vasadze"
+		texturefile = "gfx/leaders/GEO/Portrait_GEO_Levan_Vasadze.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GEO_Irakli_Okruashvili"
+		texturefile = "gfx/leaders/GEO/Portrait_GEO_Irakli_Okruashvili.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GEO_Mikheil_Saakashvili"
+		texturefile = "gfx/leaders/GEO/Portrait_GEO_Mikheil_Saakashvili.dds"
+	}
+
+}

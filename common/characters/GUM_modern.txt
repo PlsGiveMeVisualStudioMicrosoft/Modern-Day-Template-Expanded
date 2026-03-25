@@ -1,0 +1,15 @@
+characters={
+	GUM_Lou_Leon_Guerrero={
+		name=GUM_Lou_Leon_Guerrero
+		portraits={
+			civilian={
+				large="GFX_Portrait_GUM_Lou_Leon_Guerrero"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

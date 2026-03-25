@@ -1,0 +1,15 @@
+characters={
+	BOT_Mokgweetsi_Masisi={
+		name=BOT_Mokgweetsi_Masisi
+		portraits={
+			civilian={
+				large="GFX_Portrait_BOT_Mokgweetsi_Masisi"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

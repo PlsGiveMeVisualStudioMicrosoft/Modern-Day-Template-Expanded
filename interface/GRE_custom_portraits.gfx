@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_GRE_Parliament_of_the_Hellenes"
+		texturefile = "gfx/leaders/GRE/Portrait_GRE_Parliament_of_the_Hellenes.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRE_Dimitris_Koutsoumpas"
+		texturefile = "gfx/leaders/GRE/Portrait_GRE_Dimitris_Koutsoumpas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRE_Nikolaos_Michaloliakos"
+		texturefile = "gfx/leaders/GRE/Portrait_GRE_Nikolaos_Michaloliakos.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRE_Kyriakos_Mitsotakis"
+		texturefile = "gfx/leaders/GRE/Portrait_GRE_Kyriakos_Mitsotakis.dds"
+	}
+
+}

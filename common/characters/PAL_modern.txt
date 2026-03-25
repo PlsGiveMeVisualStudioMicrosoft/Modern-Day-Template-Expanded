@@ -1,0 +1,15 @@
+characters={
+	PAL_Mahmoud_Abbas={
+		name=PAL_Mahmoud_Abbas
+		portraits={
+			civilian={
+				large="GFX_Portrait_PAL_Mahmoud_Abbas"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	BRD_Pierre_Nkurunziza={
+		name=BRD_Pierre_Nkurunziza
+		portraits={
+			civilian={
+				large="GFX_Portrait_BRD_Pierre_Nkurunziza"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

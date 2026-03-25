@@ -1,0 +1,15 @@
+characters={
+	TAJ_Emomali_Rahmon={
+		name=TAJ_Emomali_Rahmon
+		portraits={
+			civilian={
+				large="GFX_Portrait_TAJ_Emomali_Rahmon"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

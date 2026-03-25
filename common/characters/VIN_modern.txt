@@ -1,0 +1,15 @@
+characters={
+	VIN_Nguyn_Ph_Trng={
+		name=VIN_Nguyn_Ph_Trng
+		portraits={
+			civilian={
+				large="GFX_Portrait_VIN_Nguyn_Ph_Trng"
+			}
+		}
+		country_leader={
+			ideology=neo_sovietism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

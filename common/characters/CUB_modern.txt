@@ -1,0 +1,15 @@
+characters={
+	CUB_Miguel_DazCanel={
+		name=CUB_Miguel_DazCanel
+		portraits={
+			civilian={
+				large="GFX_Portrait_CUB_Miguel_DazCanel"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

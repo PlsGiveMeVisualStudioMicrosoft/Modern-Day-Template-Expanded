@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_IRE_Oireachtas"
+		texturefile = "gfx/leaders/IRE/Portrait_IRE_Oireachtas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_IRE_Richard_Boyd_Barrett"
+		texturefile = "gfx/leaders/IRE/Portrait_IRE_Richard_Boyd_Barrett.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_IRE_Hermann_Kelly"
+		texturefile = "gfx/leaders/IRE/Portrait_IRE_Hermann_Kelly.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_IRE_Mary_Lou_McDonald"
+		texturefile = "gfx/leaders/IRE/Portrait_IRE_Mary_Lou_McDonald.dds"
+	}
+
+}

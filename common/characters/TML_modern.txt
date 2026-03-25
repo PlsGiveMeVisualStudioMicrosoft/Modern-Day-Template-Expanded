@@ -1,0 +1,15 @@
+characters={
+	TML_Francisco_Guterres={
+		name=TML_Francisco_Guterres
+		portraits={
+			civilian={
+				large="GFX_Portrait_TML_Francisco_Guterres"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

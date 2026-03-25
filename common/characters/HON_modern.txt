@@ -1,0 +1,15 @@
+characters={
+	HON_Juan_Orlando_Hernndez={
+		name=HON_Juan_Orlando_Hernndez
+		portraits={
+			civilian={
+				large="GFX_Portrait_HON_Juan_Orlando_Hernndez"
+			}
+		}
+		country_leader={
+			ideology=right_wing_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

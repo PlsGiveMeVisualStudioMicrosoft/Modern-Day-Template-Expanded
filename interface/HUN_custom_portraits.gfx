@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_HUN_Ferenc_Gyurcsany"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Ferenc_Gyurcsany.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HUN_Viktor_Orban"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Viktor_Orban.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HUN_Laszlo_Toroczkai"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Laszlo_Toroczkai.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HUN_Zsolt_Semjen"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Zsolt_Semjen.dds"
+	}
+
+}

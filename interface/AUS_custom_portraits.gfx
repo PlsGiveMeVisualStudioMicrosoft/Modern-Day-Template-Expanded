@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_AUS_Nationalrat"
+		texturefile = "gfx/leaders/AUS/Portrait_AUS_Nationalrat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AUS_Mirko_Messner"
+		texturefile = "gfx/leaders/AUS/Portrait_AUS_Mirko_Messner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AUS_Norbert_Hofer"
+		texturefile = "gfx/leaders/AUS/Portrait_AUS_Norbert_Hofer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AUS_Helmut_Nikel"
+		texturefile = "gfx/leaders/AUS/Portrait_AUS_Helmut_Nikel.dds"
+	}
+
+}

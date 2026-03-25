@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_HOL_Mark_Rutte"
+		texturefile = "gfx/leaders/HOL/Portrait_HOL_Mark_Rutte.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HOL_Thierry_Baudet"
+		texturefile = "gfx/leaders/HOL/Portrait_HOL_Thierry_Baudet.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HOL_Geert_Wilders"
+		texturefile = "gfx/leaders/HOL/Portrait_HOL_Geert_Wilders.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_HOL_Jan_Struijs"
+		texturefile = "gfx/leaders/HOL/Portrait_HOL_Jan_Struijs.dds"
+	}
+
+}

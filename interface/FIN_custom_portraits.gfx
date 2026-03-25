@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_FIN_Suomen_Eduskunta"
+		texturefile = "gfx/leaders/FIN/Portrait_FIN_Suomen_Eduskunta.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FIN_Li_Andersson"
+		texturefile = "gfx/leaders/FIN/Portrait_FIN_Li_Andersson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FIN_Jussi_Hallaho"
+		texturefile = "gfx/leaders/FIN/Portrait_FIN_Jussi_Hallaho.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FIN_Sari_Essayah"
+		texturefile = "gfx/leaders/FIN/Portrait_FIN_Sari_Essayah.dds"
+	}
+
+}

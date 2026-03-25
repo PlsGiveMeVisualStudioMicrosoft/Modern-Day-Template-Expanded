@@ -1,0 +1,15 @@
+characters={
+	MEX_Andrs_Manuel_Lpez_Obrador={
+		name=MEX_Andrs_Manuel_Lpez_Obrador
+		portraits={
+			civilian={
+				large="GFX_Portrait_MEX_Andrs_Manuel_Lpez_Obrador"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

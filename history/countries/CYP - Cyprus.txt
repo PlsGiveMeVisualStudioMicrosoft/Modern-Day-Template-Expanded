@@ -1,0 +1,31 @@
+capital = 183
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2016.5.22"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 28
+	fascism = 8
+	communism = 27
+	neutrality = 37
+}
+
+
+# Custom characters added by HOI4 Character Generator
+recruit_character = CYP_House_of_Representatives
+recruit_character = CYP_Andros_Kyprianou
+recruit_character = CYP_Christos_Christou
+recruit_character = CYP_Averof_Neofytou

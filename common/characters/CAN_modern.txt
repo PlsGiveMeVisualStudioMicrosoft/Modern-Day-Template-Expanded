@@ -1,0 +1,15 @@
+characters={
+	CAN_Justin_Trudeau={
+		name=CAN_Justin_Trudeau
+		portraits={
+			civilian={
+				large="GFX_Portrait_CAN_Justin_Trudeau"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

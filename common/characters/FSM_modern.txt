@@ -1,0 +1,15 @@
+characters={
+	FSM_David_W_Panuelo={
+		name=FSM_David_W_Panuelo
+		portraits={
+			civilian={
+				large="GFX_Portrait_FSM_David_W_Panuelo"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

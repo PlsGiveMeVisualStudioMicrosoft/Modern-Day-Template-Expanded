@@ -1,0 +1,15 @@
+characters={
+	MLW_Peter_Mutharika={
+		name=MLW_Peter_Mutharika
+		portraits={
+			civilian={
+				large="GFX_Portrait_MLW_Peter_Mutharika"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

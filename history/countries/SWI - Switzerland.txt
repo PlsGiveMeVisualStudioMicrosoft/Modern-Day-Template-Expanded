@@ -1,0 +1,119 @@
+capital = 3
+
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_oob = "SWI_1936_BBA"
+		set_air_oob = "SWI_1936_air_bba"
+	else = {
+		set_oob = "SWI_1936"
+		set_air_oob = "SWI_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			CAS1 = 1
+		}
+	}
+}
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_mountaineers = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	fuel_silos = 1
+	basic_train = 1
+}
+
+##### Characters for both
+recruit_character = SWI_National_Council
+recruit_character = SWI_Norberto_Crivelli
+recruit_character = SWI_Nicolas_A_Rimoldi
+recruit_character = SWI_Adrian_Pulver
+
+recruit_character = SWI_federal_assembly 
+	
+	####### Militarry Readiness Setup
+
+	set_variable = { SWI_mr_lowest_amount = 10 }
+	set_variable = { SWI_mr_low_amount = 15	}
+	set_variable = { SWI_mr_low_medium_amount = 20 }	
+	set_variable = { SWI_mr_medium_amount = 30 }
+	set_variable = { SWI_mr_high_medium_amount = 45	}
+	set_variable = { SWI_mr_high_amount = 60 }
+	set_variable = { SWI_mr_max_amount = 75 }	
+	set_variable = { SWI_military_readiness = SWI_mr_low_amount }	
+	set_variable = { SWI_max_mil_readiness = 100 }
+	set_variable = { SWI_militia_activation_time = 5 }
+	set_variable = { SWI_min_mil_readiness = 60 }
+	set_variable = { SWI_militia_division_cap = 15 }  
+	set_variable = { SWI_max_militia_division_cap = 90 }
+	set_variable = { SWI_militia_cap_increase = 5 }
+	clamp_variable = {
+		var = SWI_military_readiness
+		min = SWI_min_mil_readiness 
+		max = SWI_max_mil_readiness
+	}
+
+		#Active Militia Stuff
+	set_variable = { SWI_citizen_militia_initial_industrial_capacity_factory = -0.1 }
+	set_variable = { SWI_citizen_militia_initial_industrial_capacity_dockyard = -0.1 }
+	set_variable = { SWI_citizen_militia_initial_production_speed_buildings_factor = -0.1 }
+	set_variable = { SWI_citizen_militia_initial_civ_factory_use = 1 }
+	set_variable = { SWI_citizen_militia_initial_activation_timeout = 30 }
+	set_variable = { SWI_citizen_militia_initial_training_time_factor = 0.1 }
+	set_variable = { SWI_citizen_militia_modifier_change = 0.1 }
+
+	SWI_reset_citizen_militia_active_modifier = yes
+
+	set_variable = { SWI_citizen_militia_activation_timeout = SWI_citizen_militia_initial_activation_timeout }
+
+	########### BoP Council/Cantons  ##################
+
+	set_variable = { SWI_diplomatic_effort_cost = 30 } 
+
+	##### Absolute Neutrality Variables #####
+
+	set_variable = { SWI_small_opinion_change = 10 }
+	set_variable = { SWI_medium_opinion_change = 20 }
+	set_variable = { SWI_large_opinion_change = 30 }
+
+	set_variable = { SWI_dangerous_opinion = -75 }
+	set_variable = { SWI_terrible_opinion = -35 }
+	set_variable = { SWI_bad_opinion = -15 }
+	set_variable = { SWI_neutral_opinion = 10 }
+	set_variable = { SWI_good_opinion = 25 }
+	set_variable = { SWI_excellent_opinion = 55 }
+	set_variable = { SWI_safe_opinion = 100 }
+	set_variable = { SWI_time_to_appease_angry_country = 60 }
+	set_variable = { SWI_angry_threshold = -85 }
+	set_variable = { SWI_no_longer_angry_threshold = SWI_terrible_opinion }
+	set_variable = { SWI_fascist_germany = GER } #Yes I know it's stupid but I had to do it for tooltips.
+	
+	#Gold Trade
+	set_variable = { SWI_max_gold_trade = 6 }
+	set_variable = { SWI_max_country_gold_trading_level = 3 }
+	set_variable = { SWI_gold_trade_consumer_goods_factor_increase = -0.1 } 
+	set_variable = { SWI_gold_trade_building_speed_factor_increase = 0.03 } 
+	set_variable = { SWI_gold_trade_research_speed_factor_increase = 0.01 } 
+	set_variable = { SWI_gold_trade_lack_of_resoruce_penalty_factor_increase = -0.025 } 
+	set_variable = { SWI_gold_trade_factory_max_efficiency_factor_increase = 0.035 } 
+
+	
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2015.10.18"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 96
+	fascism = 2
+	communism = 2
+}
+
+set_stability = 0.85

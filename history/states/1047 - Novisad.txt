@@ -1,0 +1,32 @@
+
+state={
+	id=1047
+	name="Novisad" # SER
+	manpower = 222440
+
+	resources = {
+		coal = 1 #initial distribution
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = SER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+		victory_points = {
+			11577 3 
+		}
+		add_core_of = YUG
+		add_core_of = CRO
+		add_core_of = SER
+	}
+
+	provinces={
+		11577 11580
+	}
+
+	local_supplies=0.0 
+}

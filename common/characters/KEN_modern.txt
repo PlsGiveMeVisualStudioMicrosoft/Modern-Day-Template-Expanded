@@ -1,0 +1,15 @@
+characters={
+	KEN_Uhuru_Kenyatta={
+		name=KEN_Uhuru_Kenyatta
+		portraits={
+			civilian={
+				large="GFX_Portrait_KEN_Uhuru_Kenyatta"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	ZAM_Edgar_Lungu={
+		name=ZAM_Edgar_Lungu
+		portraits={
+			civilian={
+				large="GFX_Portrait_ZAM_Edgar_Lungu"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

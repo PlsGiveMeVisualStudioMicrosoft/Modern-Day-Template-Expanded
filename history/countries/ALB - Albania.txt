@@ -1,0 +1,37 @@
+capital = 44
+
+OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2017.6.25"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+
+set_popularities = {
+	democratic = 32
+	fascism = 8
+	communism = 10
+	neutrality = 50
+}
+
+
+set_convoys = 5
+
+
+
+# Custom characters added by HOI4 Character Generator
+recruit_character = ALB_Parliament_of_Albania
+recruit_character = ALB_Hysni_Milloshi
+recruit_character = ALB_Adriatik_Alimadhi
+recruit_character = ALB_Edi_Rama

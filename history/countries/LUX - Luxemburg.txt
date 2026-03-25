@@ -1,0 +1,53 @@
+capital = 8 # Luxembourg City
+
+oob = "LUX_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	tech_support = 1		
+	tech_engineers = 1
+	basic_train = 1
+}
+
+IF = {
+	limit = {
+		NOT = { has_dlc = "By Blood Alone" }
+	}
+	set_technology = {
+		early_fighter = 1
+	}
+}
+
+set_war_support = 0.15
+set_stability = 0.7
+
+
+recruit_character = LUX_Chamber_of_Deputies
+recruit_character = LUX_Ali_Ruckert
+recruit_character = LUX_Jean_Schoos
+recruit_character = LUX_Jean_Schoos
+recruit_character = LUX_felix_of_luxembourg
+
+
+# 1939 Scenario
+
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2018.10.14"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 90
+	neutrality = 2
+	fascism = 2
+	communism = 6
+}
+
+

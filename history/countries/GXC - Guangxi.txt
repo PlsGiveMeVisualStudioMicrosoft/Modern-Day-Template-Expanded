@@ -1,0 +1,91 @@
+capital = 594
+
+set_variable = { CHI_warlord_army_political_power_gain = 0 }
+set_variable = { CHI_warlord_army_army_core_attack_factor = 0 }
+set_variable = { CHI_warlord_army_army_core_defence_factor = 0 }
+set_variable = { CHI_warlord_army_production_speed_buildings_factor = 0 }
+set_variable = { CHI_warlord_army_army_infantry_attack_factor = 0 }
+set_variable = { CHI_warlord_army_army_infantry_defence_factor = 0 }
+set_variable = { CHI_warlord_army_special_forces_cap = 0 }
+set_variable = { CHI_warlord_army_special_forces_out_of_supply_factor = 0 }
+set_variable = { warlord_faction_influence_war_score_factor = 0 }
+set_variable = { warlord_faction_influence_contribution_factor = 0 }
+
+set_variable = { RNG_state_shintoism_surrender_limit = 0 }
+set_variable = { RNG_state_shintoism_war_support_factor = 0 }
+set_variable = { RNG_state_shintoism_pocket_penalty = 0 }
+set_variable = { RNG_state_shintoism_stability_factor = 0 }
+set_variable = { RNG_state_shintoism_army_core_defence_factor = 0 }
+set_variable = { RNG_state_shintoism_research_speed_factor = 0 }
+set_variable = { RNG_state_shintoism_recruitable_population_factor = 0 }
+set_variable = { RNG_state_shintoism_political_power_gain = 0 }
+
+IF = {
+	limit = {
+		has_dlc = "No Compromise, No Surrender"
+	}
+	set_oob = "GXC_1936_sea"
+	else = {
+		set_oob = "GXC_1936"
+	}
+} 
+
+set_stability = 0.5
+set_war_support = 0.55
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_grand_doctrine = mass_assault
+
+IF = { 
+	limit = {
+		has_dlc = "No Compromise, No Surrender"
+	}
+	ELSE = {
+		recruit_character = GXC_wang_shuming
+		recruit_character = GXC_chen_jitang
+	}
+}
+recruit_character = GXC_li_zongren
+recruit_character = GXC_liu_peng
+recruit_character = GXC_zhang_lu
+recruit_character = GXC_li_ting
+recruit_character = GXC_bai_yeung
+recruit_character = GXC_heng_lo
+recruit_character = GXC_yu_hanmou
+recruit_character = GXC_zha_zemin
+recruit_character = GXC_huo_duyi
+recruit_character = GXC_niu_keung
+recruit_character = GXC_bai_chongxi
+recruit_character = GXC_teng_qingshan
+recruit_character = GXC_do_liang
+recruit_character = GXC_huang_shaohong
+recruit_character = GXC_yang_hulin
+recruit_character = GXC_li_jishen
+recruit_character = GXC_lei_zhong
+
+
+if = {
+	limit = {
+		has_dlc = "Waking the Tiger"
+	}
+}
+
+
+
+
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}

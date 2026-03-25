@@ -1,0 +1,15 @@
+characters={
+	NGA_Muhammadu_Buhari={
+		name=NGA_Muhammadu_Buhari
+		portraits={
+			civilian={
+				large="GFX_Portrait_NGA_Muhammadu_Buhari"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,26 @@
+recruit_character = AFG_Ashraf_Ghani
+
+capital = 267
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+	
+set_popularities = {
+	fascism = 10
+	communism = 9
+	neutrality = 60
+	democratic = 21
+}
+
+	### Techs ###
+set_technology = {
+	gw_artillery = 1
+}
+
+
+
+
+

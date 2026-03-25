@@ -1,0 +1,15 @@
+characters={
+	BHR_Hamad_bin_Isa={
+		name=BHR_Hamad_bin_Isa
+		portraits={
+			civilian={
+				large="GFX_Portrait_BHR_Hamad_bin_Isa"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

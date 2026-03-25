@@ -1,0 +1,15 @@
+characters={
+	RCG_Denis_Sassou_Nguesso={
+		name=RCG_Denis_Sassou_Nguesso
+		portraits={
+			civilian={
+				large="GFX_Portrait_RCG_Denis_Sassou_Nguesso"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

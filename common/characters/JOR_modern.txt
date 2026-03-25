@@ -1,0 +1,15 @@
+characters={
+	JOR_Abdullah_II={
+		name=JOR_Abdullah_II
+		portraits={
+			civilian={
+				large="GFX_Portrait_JOR_Abdullah_II"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

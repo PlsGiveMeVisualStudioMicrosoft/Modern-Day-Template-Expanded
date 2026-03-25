@@ -1,0 +1,15 @@
+characters={
+	DOM_Danilo_Medina={
+		name=DOM_Danilo_Medina
+		portraits={
+			civilian={
+				large="GFX_Portrait_DOM_Danilo_Medina"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

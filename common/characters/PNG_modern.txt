@@ -1,0 +1,15 @@
+characters={
+	PNG_Peter_ONeill={
+		name=PNG_Peter_ONeill
+		portraits={
+			civilian={
+				large="GFX_Portrait_PNG_Peter_ONeill"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

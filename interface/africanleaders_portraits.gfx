@@ -1,0 +1,21 @@
+spriteTypes = {
+
+# NGA
+	spriteType = {
+		name = "GFX_Portrait_NGA_Muhammadu_Buhari"
+		texturefile = "gfx/leaders/NGA/Portrait_NGA_Muhammadu_Buhari.dds"
+	}
+
+# VOL
+	spriteType = {
+		name = "GFX_Portrait_VOL_Roch_Marc_Christian_Kabor"
+		texturefile = "gfx/leaders/VOL/Portrait_VOL_Roch_Marc_Christian_Kabor.dds"
+	}
+
+# CBV
+	spriteType = {
+		name = "GFX_Portrait_CBV_Jorge_Carlos_Fonseca"
+		texturefile = "gfx/leaders/CBV/Portrait_CBV_Jorge_Carlos_Fonseca.dds"
+	}
+
+}

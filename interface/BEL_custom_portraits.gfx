@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_BEL_Federal_Parliament_of_Belgium"
+		texturefile = "gfx/leaders/BEL/Portrait_BEL_Federal_Parliament_of_Belgium.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BEL_Peter_Mertens"
+		texturefile = "gfx/leaders/BEL/Portrait_BEL_Peter_Mertens.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BEL_Tom_Van_Grieken"
+		texturefile = "gfx/leaders/BEL/Portrait_BEL_Tom_Van_Grieken.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BEL_Bart_De_Wever"
+		texturefile = "gfx/leaders/BEL/Portrait_BEL_Bart_De_Wever.dds"
+	}
+
+}

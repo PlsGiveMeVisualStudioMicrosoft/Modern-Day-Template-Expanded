@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_AZR_Ali_Kerimli"
+		texturefile = "gfx/leaders/AZR/Portrait_AZR_Ali_Kerimli.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AZR_Ilham_Aliyev"
+		texturefile = "gfx/leaders/AZR/Portrait_AZR_Ilham_Aliyev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AZR_Hafiz_Hajiyev"
+		texturefile = "gfx/leaders/AZR/Portrait_AZR_Hafiz_Hajiyev.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_AZR_Ilham_Aliyev"
+		texturefile = "gfx/leaders/AZR/Portrait_AZR_Ilham_Aliyev.dds"
+	}
+
+}

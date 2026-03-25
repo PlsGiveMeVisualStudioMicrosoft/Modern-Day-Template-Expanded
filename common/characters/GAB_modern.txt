@@ -1,0 +1,15 @@
+characters={
+	GAB_Ali_Bongo_Ondimba={
+		name=GAB_Ali_Bongo_Ondimba
+		portraits={
+			civilian={
+				large="GFX_Portrait_GAB_Ali_Bongo_Ondimba"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

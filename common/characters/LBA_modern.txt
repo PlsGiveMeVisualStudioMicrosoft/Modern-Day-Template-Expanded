@@ -1,0 +1,15 @@
+characters={
+	LBA_Fayez_alSarraj={
+		name=LBA_Fayez_alSarraj
+		portraits={
+			civilian={
+				large="GFX_Portrait_LBA_Fayez_alSarraj"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

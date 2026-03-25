@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_select_date_2019"
+		texturefile = "gfx/interface/select_date_2019.dds" #We define a sprittype for the bookmark, so the game knows where to look
+	}
+}

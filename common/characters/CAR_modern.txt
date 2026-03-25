@@ -1,0 +1,15 @@
+characters={
+	CAR_FaustinArchange_Touadra={
+		name=CAR_FaustinArchange_Touadra
+		portraits={
+			civilian={
+				large="GFX_Portrait_CAR_FaustinArchange_Touadra"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

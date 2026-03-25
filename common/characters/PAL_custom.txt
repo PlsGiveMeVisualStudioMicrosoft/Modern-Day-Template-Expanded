@@ -1,0 +1,15 @@
+characters={
+	PAL_Islamic_Resistance_Movement={
+		name=PAL_Islamic_Resistance_Movement
+		portraits={
+			civilian={
+				large="GFX_Portrait_PAL_Islamic_Resistance_Movement"
+			}
+		}
+		country_leader={
+			ideology=ultra_nationalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

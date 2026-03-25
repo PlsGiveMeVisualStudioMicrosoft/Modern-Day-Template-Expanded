@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ICE_Althing"
+		texturefile = "gfx/leaders/ICE/Portrait_ICE_Althing.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ICE_Katrin_Jakobsdottir"
+		texturefile = "gfx/leaders/ICE/Portrait_ICE_Katrin_Jakobsdottir.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ICE_Sigmundur_David_Gunnlaugsson"
+		texturefile = "gfx/leaders/ICE/Portrait_ICE_Sigmundur_David_Gunnlaugsson.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ICE_Inga_Saeland"
+		texturefile = "gfx/leaders/ICE/Portrait_ICE_Inga_Saeland.dds"
+	}
+
+}

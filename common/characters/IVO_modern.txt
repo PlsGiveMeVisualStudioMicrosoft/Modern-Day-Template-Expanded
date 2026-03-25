@@ -1,0 +1,15 @@
+characters={
+	IVO_Alassane_Ouattara={
+		name=IVO_Alassane_Ouattara
+		portraits={
+			civilian={
+				large="GFX_Portrait_IVO_Alassane_Ouattara"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

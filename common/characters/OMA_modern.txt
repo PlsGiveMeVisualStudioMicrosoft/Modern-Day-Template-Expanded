@@ -1,0 +1,15 @@
+characters={
+	OMA_Haitham_bin_Tariq={
+		name=OMA_Haitham_bin_Tariq
+		portraits={
+			civilian={
+				large="GFX_Portrait_OMA_Haitham_bin_Tariq"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

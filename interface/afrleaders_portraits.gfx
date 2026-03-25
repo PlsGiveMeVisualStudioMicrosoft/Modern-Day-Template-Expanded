@@ -1,0 +1,279 @@
+spriteTypes = {
+
+# MOR
+	spriteType = {
+		name = "GFX_Portrait_MOR_Mohammed_VI"
+		texturefile = "gfx/leaders/MOR/Portrait_MOR_Mohammed_VI.dds"
+	}
+
+# ALG
+	spriteType = {
+		name = "GFX_Portrait_ALG_Abdelmadjid_Tebboune"
+		texturefile = "gfx/leaders/ALG/Portrait_ALG_Abdelmadjid_Tebboune.dds"
+	}
+
+# TUN
+	spriteType = {
+		name = "GFX_Portrait_TUN_Kais_Saied"
+		texturefile = "gfx/leaders/TUN/Portrait_TUN_Kais_Saied.dds"
+	}
+
+# LBA
+	spriteType = {
+		name = "GFX_Portrait_LBA_Fayez_alSarraj"
+		texturefile = "gfx/leaders/LBA/Portrait_LBA_Fayez_alSarraj.dds"
+	}
+
+# EGY
+	spriteType = {
+		name = "GFX_Portrait_EGY_Abdel_Fattah_elSisi"
+		texturefile = "gfx/leaders/EGY/Portrait_EGY_Abdel_Fattah_elSisi.dds"
+	}
+
+# WES
+	spriteType = {
+		name = "GFX_Portrait_WES_Brahim_Ghali"
+		texturefile = "gfx/leaders/WES/Portrait_WES_Brahim_Ghali.dds"
+	}
+
+# MRT
+	spriteType = {
+		name = "GFX_Portrait_MRT_Mohamed_Ould_Ghazouani"
+		texturefile = "gfx/leaders/MRT/Portrait_MRT_Mohamed_Ould_Ghazouani.dds"
+	}
+
+# MLI
+	spriteType = {
+		name = "GFX_Portrait_MLI_Ibrahim_Boubacar_Keta"
+		texturefile = "gfx/leaders/MLI/Portrait_MLI_Ibrahim_Boubacar_Keta.dds"
+	}
+
+# NGR
+	spriteType = {
+		name = "GFX_Portrait_NGR_Mahamadou_Issoufou"
+		texturefile = "gfx/leaders/NGR/Portrait_NGR_Mahamadou_Issoufou.dds"
+	}
+
+# DAH
+	spriteType = {
+		name = "GFX_Portrait_DAH_Patrice_Talon"
+		texturefile = "gfx/leaders/DAH/Portrait_DAH_Patrice_Talon.dds"
+	}
+
+# TOG
+	spriteType = {
+		name = "GFX_Portrait_TOG_Faure_Gnassingb"
+		texturefile = "gfx/leaders/TOG/Portrait_TOG_Faure_Gnassingb.dds"
+	}
+
+# GHA
+	spriteType = {
+		name = "GFX_Portrait_GHA_Nana_AkufoAddo"
+		texturefile = "gfx/leaders/GHA/Portrait_GHA_Nana_AkufoAddo.dds"
+	}
+
+# IVO
+	spriteType = {
+		name = "GFX_Portrait_IVO_Alassane_Ouattara"
+		texturefile = "gfx/leaders/IVO/Portrait_IVO_Alassane_Ouattara.dds"
+	}
+
+# LIB
+	spriteType = {
+		name = "GFX_Portrait_LIB_George_Weah"
+		texturefile = "gfx/leaders/LIB/Portrait_LIB_George_Weah.dds"
+	}
+
+# SIE
+	spriteType = {
+		name = "GFX_Portrait_SIE_Julius_Maada_Bio"
+		texturefile = "gfx/leaders/SIE/Portrait_SIE_Julius_Maada_Bio.dds"
+	}
+
+# GNA
+	spriteType = {
+		name = "GFX_Portrait_GNA_Alpha_Cond"
+		texturefile = "gfx/leaders/GNA/Portrait_GNA_Alpha_Cond.dds"
+	}
+
+# GNB
+	spriteType = {
+		name = "GFX_Portrait_GNB_Jos_Mrio_Vaz"
+		texturefile = "gfx/leaders/GNB/Portrait_GNB_Jos_Mrio_Vaz.dds"
+	}
+
+# GAM
+	spriteType = {
+		name = "GFX_Portrait_GAM_Adama_Barrow"
+		texturefile = "gfx/leaders/GAM/Portrait_GAM_Adama_Barrow.dds"
+	}
+
+# SEN
+	spriteType = {
+		name = "GFX_Portrait_SEN_Macky_Sall"
+		texturefile = "gfx/leaders/SEN/Portrait_SEN_Macky_Sall.dds"
+	}
+
+# CHA
+	spriteType = {
+		name = "GFX_Portrait_CHA_Idriss_Dby"
+		texturefile = "gfx/leaders/CHA/Portrait_CHA_Idriss_Dby.dds"
+	}
+
+# SUD
+	spriteType = {
+		name = "GFX_Portrait_SUD_Abdalla_Hamdok"
+		texturefile = "gfx/leaders/SUD/Portrait_SUD_Abdalla_Hamdok.dds"
+	}
+
+# CAR
+	spriteType = {
+		name = "GFX_Portrait_CAR_FaustinArchange_Touadra"
+		texturefile = "gfx/leaders/CAR/Portrait_CAR_FaustinArchange_Touadra.dds"
+	}
+
+# CMR
+	spriteType = {
+		name = "GFX_Portrait_CMR_Paul_Biya"
+		texturefile = "gfx/leaders/CMR/Portrait_CMR_Paul_Biya.dds"
+	}
+
+# EQG
+	spriteType = {
+		name = "GFX_Portrait_EQG_Teodoro_Obiang_Nguema"
+		texturefile = "gfx/leaders/EQG/Portrait_EQG_Teodoro_Obiang_Nguema.dds"
+	}
+
+# GAB
+	spriteType = {
+		name = "GFX_Portrait_GAB_Ali_Bongo_Ondimba"
+		texturefile = "gfx/leaders/GAB/Portrait_GAB_Ali_Bongo_Ondimba.dds"
+	}
+
+# RCG
+	spriteType = {
+		name = "GFX_Portrait_RCG_Denis_Sassou_Nguesso"
+		texturefile = "gfx/leaders/RCG/Portrait_RCG_Denis_Sassou_Nguesso.dds"
+	}
+
+# COG
+	spriteType = {
+		name = "GFX_Portrait_COG_Flix_Tshisekedi"
+		texturefile = "gfx/leaders/COG/Portrait_COG_Flix_Tshisekedi.dds"
+	}
+
+# UGA
+	spriteType = {
+		name = "GFX_Portrait_UGA_Yoweri_Museveni"
+		texturefile = "gfx/leaders/UGA/Portrait_UGA_Yoweri_Museveni.dds"
+	}
+
+# KEN
+	spriteType = {
+		name = "GFX_Portrait_KEN_Uhuru_Kenyatta"
+		texturefile = "gfx/leaders/KEN/Portrait_KEN_Uhuru_Kenyatta.dds"
+	}
+
+# SOM
+	spriteType = {
+		name = "GFX_Portrait_SOM_Mohamed_Abdullahi_Farmaajo"
+		texturefile = "gfx/leaders/SOM/Portrait_SOM_Mohamed_Abdullahi_Farmaajo.dds"
+	}
+
+# SML
+	spriteType = {
+		name = "GFX_Portrait_SML_Muse_Bihi_Abdi"
+		texturefile = "gfx/leaders/SML/Portrait_SML_Golaha_Wakiilada.dds"
+	}
+
+# DJI
+	spriteType = {
+		name = "GFX_Portrait_DJI_Ismal_Omar_Guelleh"
+		texturefile = "gfx/leaders/DJI/Portrait_DJI_Ismal_Omar_Guelleh.dds"
+	}
+
+# ERI
+	spriteType = {
+		name = "GFX_Portrait_ERI_Isaias_Afwerki"
+		texturefile = "gfx/leaders/ERI/Portrait_ERI_Isaias_Afwerki.dds"
+	}
+
+# ETH
+	spriteType = {
+		name = "GFX_Portrait_ETH_Abiy_Ahmed"
+		texturefile = "gfx/leaders/ETH/Portrait_ETH_Abiy_Ahmed.dds"
+	}
+
+# TZN
+	spriteType = {
+		name = "GFX_Portrait_TZN_John_Magufuli"
+		texturefile = "gfx/leaders/TZN/Portrait_TZN_John_Magufuli.dds"
+	}
+
+# MLW
+	spriteType = {
+		name = "GFX_Portrait_MLW_Peter_Mutharika"
+		texturefile = "gfx/leaders/MLW/Portrait_MLW_Peter_Mutharika.dds"
+	}
+
+# MZB
+	spriteType = {
+		name = "GFX_Portrait_MZB_Filipe_Nyusi"
+		texturefile = "gfx/leaders/MZB/Portrait_MZB_Filipe_Nyusi.dds"
+	}
+
+# ZIM
+	spriteType = {
+		name = "GFX_Portrait_ZIM_Emmerson_Mnangagwa"
+		texturefile = "gfx/leaders/ZIM/Portrait_ZIM_Emmerson_Mnangagwa.dds"
+	}
+
+# ZAM
+	spriteType = {
+		name = "GFX_Portrait_ZAM_Edgar_Lungu"
+		texturefile = "gfx/leaders/ZAM/Portrait_ZAM_Edgar_Lungu.dds"
+	}
+
+# NMB
+	spriteType = {
+		name = "GFX_Portrait_NMB_Hage_Geingob"
+		texturefile = "gfx/leaders/NMB/Portrait_NMB_Hage_Geingob.dds"
+	}
+
+# ANG
+	spriteType = {
+		name = "GFX_Portrait_ANG_Joo_Loureno"
+		texturefile = "gfx/leaders/ANG/Portrait_ANG_Joo_Loureno.dds"
+	}
+
+# BOT
+	spriteType = {
+		name = "GFX_Portrait_BOT_Mokgweetsi_Masisi"
+		texturefile = "gfx/leaders/BOT/Portrait_BOT_Mokgweetsi_Masisi.dds"
+	}
+
+# SAF
+	spriteType = {
+		name = "GFX_Portrait_SAF_Cyril_Ramaphosa"
+		texturefile = "gfx/leaders/SAF/Portrait_SAF_Cyril_Ramaphosa.dds"
+	}
+
+# MAD
+	spriteType = {
+		name = "GFX_Portrait_MAD_Andry_Rajoelina"
+		texturefile = "gfx/leaders/MAD/Portrait_MAD_Andry_Rajoelina.dds"
+	}
+
+# RWA
+	spriteType = {
+		name = "GFX_Portrait_RWA_Paul_Kagame"
+		texturefile = "gfx/leaders/RWA/Portrait_RWA_Paul_Kagame.dds"
+	}
+
+# BRD
+	spriteType = {
+		name = "GFX_Portrait_BRD_Pierre_Nkurunziza"
+		texturefile = "gfx/leaders/BRD/Portrait_BRD_Pierre_Nkurunziza.dds"
+	}
+
+}

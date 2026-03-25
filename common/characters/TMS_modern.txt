@@ -1,0 +1,15 @@
+characters={
+	TMS_Gurbanguly_Berdimuhamedow={
+		name=TMS_Gurbanguly_Berdimuhamedow
+		portraits={
+			civilian={
+				large="GFX_Portrait_TMS_Gurbanguly_Berdimuhamedow"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

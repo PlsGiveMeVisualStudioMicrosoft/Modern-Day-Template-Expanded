@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_CZE_Parliament_of_the_Czech_Republic"
+		texturefile = "gfx/leaders/CZE/Portrait_CZE_Parliament_of_the_Czech_Republic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CZE_Katerina_Konecna"
+		texturefile = "gfx/leaders/CZE/Portrait_CZE_Katerina_Konecna.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CZE_Andrej_Babis"
+		texturefile = "gfx/leaders/CZE/Portrait_CZE_Andrej_Babis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CZE_Tomio_Okamura"
+		texturefile = "gfx/leaders/CZE/Portrait_CZE_Tomio_Okamura.dds"
+	}
+
+}

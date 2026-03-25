@@ -1,0 +1,15 @@
+characters={
+	PER_Hassan_Rouhani={
+		name=PER_Hassan_Rouhani
+		portraits={
+			civilian={
+				large="GFX_Portrait_PER_Hassan_Rouhani"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

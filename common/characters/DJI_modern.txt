@@ -1,0 +1,15 @@
+characters={
+	DJI_Ismal_Omar_Guelleh={
+		name=DJI_Ismal_Omar_Guelleh
+		portraits={
+			civilian={
+				large="GFX_Portrait_DJI_Ismal_Omar_Guelleh"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	COG_Flix_Tshisekedi={
+		name=COG_Flix_Tshisekedi
+		portraits={
+			civilian={
+				large="GFX_Portrait_COG_Flix_Tshisekedi"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

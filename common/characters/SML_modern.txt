@@ -1,0 +1,15 @@
+characters={
+	SML_Muse_Bihi_Abdi={
+		name=SML_Muse_Bihi_Abdi
+		portraits={
+			civilian={
+				large="GFX_Portrait_SML_Muse_Bihi_Abdi"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

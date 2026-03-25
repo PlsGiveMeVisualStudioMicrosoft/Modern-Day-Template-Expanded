@@ -1,0 +1,111 @@
+spriteTypes = {
+
+# TRI
+	spriteType = {
+		name = "GFX_Portrait_TRI_Keith_Rowley"
+		texturefile = "gfx/leaders/TRI/Portrait_TRI_Keith_Rowley.dds"
+	}
+
+# BAS
+	spriteType = {
+		name = "GFX_Portrait_BAS_Hubert_Minnis"
+		texturefile = "gfx/leaders/BAS/Portrait_BAS_Hubert_Minnis.dds"
+	}
+
+# GDL
+	spriteType = {
+		name = "GFX_Portrait_GDL_Ariel_Henry"
+		texturefile = "gfx/leaders/GDL/Portrait_GDL_Ariel_Henry.dds"
+	}
+
+# DOM
+	spriteType = {
+		name = "GFX_Portrait_DOM_Danilo_Medina"
+		texturefile = "gfx/leaders/DOM/Portrait_DOM_Danilo_Medina.dds"
+	}
+
+# HAI
+	spriteType = {
+		name = "GFX_Portrait_HAI_Jovenel_Mose"
+		texturefile = "gfx/leaders/HAI/Portrait_HAI_Jovenel_Mose.dds"
+	}
+
+# JAM
+	spriteType = {
+		name = "GFX_Portrait_JAM_Andrew_Holness"
+		texturefile = "gfx/leaders/JAM/Portrait_JAM_Andrew_Holness.dds"
+	}
+
+# CUB
+	spriteType = {
+		name = "GFX_Portrait_CUB_Miguel_DazCanel"
+		texturefile = "gfx/leaders/CUB/Portrait_CUB_Miguel_DazCanel.dds"
+	}
+
+# BAH
+	spriteType = {
+		name = "GFX_Portrait_BAH_Hubert_Minnis"
+		texturefile = "gfx/leaders/BAH/Portrait_BAH_Hubert_Minnis.dds"
+	}
+
+# BLZ
+	spriteType = {
+		name = "GFX_Portrait_BLZ_Dean_Barrow"
+		texturefile = "gfx/leaders/BLZ/Portrait_BLZ_Dean_Barrow.dds"
+	}
+
+# GUA
+	spriteType = {
+		name = "GFX_Portrait_GUA_Jimmy_Morales"
+		texturefile = "gfx/leaders/GUA/Portrait_GUA_Jimmy_Morales.dds"
+	}
+
+# ELS
+	spriteType = {
+		name = "GFX_Portrait_ELS_Nayib_Bukele"
+		texturefile = "gfx/leaders/ELS/Portrait_ELS_Nayib_Bukele.dds"
+	}
+
+# HON
+	spriteType = {
+		name = "GFX_Portrait_HON_Juan_Orlando_Hernndez"
+		texturefile = "gfx/leaders/HON/Portrait_HON_Juan_Orlando_Hernndez.dds"
+	}
+
+# NIC
+	spriteType = {
+		name = "GFX_Portrait_NIC_Daniel_Ortega"
+		texturefile = "gfx/leaders/NIC/Portrait_NIC_Daniel_Ortega.dds"
+	}
+
+# COS
+	spriteType = {
+		name = "GFX_Portrait_COS_Carlos_Alvarado_Quesada"
+		texturefile = "gfx/leaders/COS/Portrait_COS_Carlos_Alvarado_Quesada.dds"
+	}
+
+# PAN
+	spriteType = {
+		name = "GFX_Portrait_PAN_Laurentino_Cortizo"
+		texturefile = "gfx/leaders/PAN/Portrait_PAN_Laurentino_Cortizo.dds"
+	}
+
+# MEX
+	spriteType = {
+		name = "GFX_Portrait_MEX_Andrs_Manuel_Lpez_Obrador"
+		texturefile = "gfx/leaders/MEX/Portrait_MEX_Andrs_Manuel_Lpez_Obrador.dds"
+	}
+
+# CAN
+	spriteType = {
+		name = "GFX_Portrait_CAN_Justin_Trudeau"
+		texturefile = "gfx/leaders/CAN/Portrait_CAN_Justin_Trudeau.dds"
+	}
+
+# USA
+	spriteType = {
+		name = "GFX_Portrait_USA_Donald_Trump"
+		texturefile = "gfx/leaders/USA/Portrait_USA_Donald_Trump.dds"
+	}
+
+}

@@ -1,0 +1,15 @@
+characters={
+	INS_Joko_Widodo={
+		name=INS_Joko_Widodo
+		portraits={
+			civilian={
+				large="GFX_Portrait_INS_Joko_Widodo"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

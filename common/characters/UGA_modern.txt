@@ -1,0 +1,15 @@
+characters={
+	UGA_Yoweri_Museveni={
+		name=UGA_Yoweri_Museveni
+		portraits={
+			civilian={
+				large="GFX_Portrait_UGA_Yoweri_Museveni"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

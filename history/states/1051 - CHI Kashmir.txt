@@ -1,0 +1,25 @@
+state = {
+	id = 1051
+	name = "Chinese Kashmir" #Andorra la Vella
+	manpower = 598027
+	
+	state_category = city
+
+	history = {
+		owner = PRC
+		victory_points = { 13384 15 } #FRA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+		}
+		add_core_of = PRC
+		add_core_of = KAS
+		add_core_of = KHL 
+	}
+
+	provinces = {
+		7273 5042
+ 	}
+
+	local_supplies = 0.0 
+}

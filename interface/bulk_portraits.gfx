@@ -1,0 +1,263 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ARG_Mauricio_Macri"
+		texturefile = "gfx/leaders/ARG/Portrait_ARG_Mauricio_Macri.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARG_Alberto_Fernandez"
+		texturefile = "gfx/leaders/ARG/Portrait_ARG_Alberto_Fernandez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARG_Juan_Jose_Gomez_Centurion"
+		texturefile = "gfx/leaders/ARG/Portrait_ARG_Juan_Jose_Gomez_Centurion.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARG_Cristina_Fernandez_de_Kirchner"
+		texturefile = "gfx/leaders/ARG/Portrait_ARG_Cristina_Fernandez_de_Kirchner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BRA_Paulo_Guedes"
+		texturefile = "gfx/leaders/BRA/Portrait_BRA_Paulo_Guedes.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BRA_Lula_da_Silva"
+		texturefile = "gfx/leaders/BRA/Portrait_BRA_Lula_da_Silva.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BRA_Jair_Bolsonaro"
+		texturefile = "gfx/leaders/BRA/Portrait_BRA_Jair_Bolsonaro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BRA_Hamilton_Mourao"
+		texturefile = "gfx/leaders/BRA/Portrait_BRA_Hamilton_Mourao.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_COL_Ivan_Duque"
+		texturefile = "gfx/leaders/COL/Portrait_COL_Ivan_Duque.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_COL_Gustavo_Petro"
+		texturefile = "gfx/leaders/COL/Portrait_COL_Gustavo_Petro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_COL_Alvaro_Uribe"
+		texturefile = "gfx/leaders/COL/Portrait_COL_Alvaro_Uribe.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_COL_Marta_Lucia_Ramirez"
+		texturefile = "gfx/leaders/COL/Portrait_COL_Marta_Lucia_Ramirez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GYA_Moses_Nagamootoo"
+		texturefile = "gfx/leaders/GYA/Portrait_GYA_Moses_Nagamootoo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GYA_Cheddi_Jagan"
+		texturefile = "gfx/leaders/GYA/Portrait_GYA_Cheddi_Jagan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GYA_David_Granger"
+		texturefile = "gfx/leaders/GYA/Portrait_GYA_David_Granger.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GYA_Irfaan_Ali"
+		texturefile = "gfx/leaders/GYA/Portrait_GYA_Irfaan_Ali.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PRU_Pedro_Pablo_Kuczynski"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Pedro_Pablo_Kuczynski.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PRU_Veronika_Mendoza"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Veronika_Mendoza.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PRU_Keiko_Fujimori"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Keiko_Fujimori.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PRU_Ollanta_Humala"
+		texturefile = "gfx/leaders/PRU/Portrait_PRU_Ollanta_Humala.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_URG_Luis_Lacalle_Pou"
+		texturefile = "gfx/leaders/URG/Portrait_URG_Luis_Lacalle_Pou.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_URG_Jose_Mujica"
+		texturefile = "gfx/leaders/URG/Portrait_URG_Jose_Mujica.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_URG_Guido_Manini_Rios"
+		texturefile = "gfx/leaders/URG/Portrait_URG_Guido_Manini_Rios.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_URG_Tabare_Vazquez"
+		texturefile = "gfx/leaders/URG/Portrait_URG_Tabare_Vazquez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOL_Carlos_Mesa"
+		texturefile = "gfx/leaders/BOL/Portrait_BOL_Carlos_Mesa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOL_Evo_Morales"
+		texturefile = "gfx/leaders/BOL/Portrait_BOL_Evo_Morales.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOL_Luis_Fernando_Camacho"
+		texturefile = "gfx/leaders/BOL/Portrait_BOL_Luis_Fernando_Camacho.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_BOL_Jeanine_Anez"
+		texturefile = "gfx/leaders/BOL/Portrait_BOL_Jeanine_Anez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CHL_Sebastian_Pinera"
+		texturefile = "gfx/leaders/CHL/Portrait_CHL_Sebastian_Pinera.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CHL_Daniel_Jadue"
+		texturefile = "gfx/leaders/CHL/Portrait_CHL_Daniel_Jadue.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CHL_Jose_Antonio_Kast"
+		texturefile = "gfx/leaders/CHL/Portrait_CHL_Jose_Antonio_Kast.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_CHL_Alejandro_Guillier"
+		texturefile = "gfx/leaders/CHL/Portrait_CHL_Alejandro_Guillier.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ECU_Lenin_Moreno"
+		texturefile = "gfx/leaders/ECU/Portrait_ECU_Lenin_Moreno.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ECU_Rafael_Correa"
+		texturefile = "gfx/leaders/ECU/Portrait_ECU_Rafael_Correa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ECU_Guillermo_Lasso"
+		texturefile = "gfx/leaders/ECU/Portrait_ECU_Guillermo_Lasso.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ECU_Jaime_Nebot"
+		texturefile = "gfx/leaders/ECU/Portrait_ECU_Jaime_Nebot.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PAR_Mario_Abdo_Benitez"
+		texturefile = "gfx/leaders/PAR/Portrait_PAR_Mario_Abdo_Benitez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PAR_Fernando_Lugo"
+		texturefile = "gfx/leaders/PAR/Portrait_PAR_Fernando_Lugo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PAR_Horacio_Cartes"
+		texturefile = "gfx/leaders/PAR/Portrait_PAR_Horacio_Cartes.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_PAR_Efrain_Alegre"
+		texturefile = "gfx/leaders/PAR/Portrait_PAR_Efrain_Alegre.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SUR_Chan_Santokhi"
+		texturefile = "gfx/leaders/SUR/Portrait_SUR_Chan_Santokhi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SUR_Desi_Bouterse"
+		texturefile = "gfx/leaders/SUR/Portrait_SUR_Desi_Bouterse.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SUR_Ronnie_Brunswijk"
+		texturefile = "gfx/leaders/SUR/Portrait_SUR_Ronnie_Brunswijk.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SUR_Jules_Wijdenbosch"
+		texturefile = "gfx/leaders/SUR/Portrait_SUR_Jules_Wijdenbosch.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_VEN_Juan_Guaido"
+		texturefile = "gfx/leaders/VEN/Portrait_VEN_Juan_Guaido.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_VEN_Nicolas_Maduro"
+		texturefile = "gfx/leaders/VEN/Portrait_VEN_Nicolas_Maduro.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_VEN_Diosdado_Cabello"
+		texturefile = "gfx/leaders/VEN/Portrait_VEN_Diosdado_Cabello.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_VEN_Hugo_Chavez"
+		texturefile = "gfx/leaders/VEN/Portrait_VEN_Hugo_Chavez.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FAI_Nigel_Phillips"
+		texturefile = "gfx/leaders/FAI/Portrait_FAI_Nigel_Phillips.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FAI_Gavin_Short"
+		texturefile = "gfx/leaders/FAI/Portrait_FAI_Gavin_Short.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FAI_Roger_Edwards"
+		texturefile = "gfx/leaders/FAI/Portrait_FAI_Roger_Edwards.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_FAI_Mike_Summers"
+		texturefile = "gfx/leaders/FAI/Portrait_FAI_Mike_Summers.dds"
+	}
+
+}

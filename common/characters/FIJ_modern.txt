@@ -1,0 +1,15 @@
+characters={
+	FIJ_Josaia_Voreqe_Bainimarama={
+		name=FIJ_Josaia_Voreqe_Bainimarama
+		portraits={
+			civilian={
+				large="GFX_Portrait_FIJ_Josaia_Voreqe_Bainimarama"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

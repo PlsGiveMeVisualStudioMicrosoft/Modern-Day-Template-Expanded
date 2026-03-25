@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SLV_National_Assembly_of_Slovenia"
+		texturefile = "gfx/leaders/SLV/Portrait_SLV_National_Assembly_of_Slovenia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLV_Luka_Mesec"
+		texturefile = "gfx/leaders/SLV/Portrait_SLV_Luka_Mesec.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLV_Zmago_Jelinčič_Plemeniti"
+		texturefile = "gfx/leaders/SLV/Portrait_SLV_Zmago_Jelinčič_Plemeniti.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SLV_Janez_Janša"
+		texturefile = "gfx/leaders/SLV/Portrait_SLV_Janez_Janša.dds"
+	}
+
+}

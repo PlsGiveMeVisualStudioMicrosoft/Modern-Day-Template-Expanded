@@ -1,0 +1,15 @@
+characters={
+	TUN_Kais_Saied={
+		name=TUN_Kais_Saied
+		portraits={
+			civilian={
+				large="GFX_Portrait_TUN_Kais_Saied"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_TUR_Kemal_Kılıcdaroglu"
+		texturefile = "gfx/leaders/TUR/Portrait_TUR_Kemal_Kılıcdaroglu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_TUR_Nurullah_Ankut"
+		texturefile = "gfx/leaders/TUR/Portrait_TUR_Nurullah_Ankut.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_TUR_Devlet_Bahceli"
+		texturefile = "gfx/leaders/TUR/Portrait_TUR_Devlet_Bahceli.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_TUR_Recep_Tayyip_Erdogan"
+		texturefile = "gfx/leaders/TUR/Portrait_TUR_Recep_Tayyip_Erdogan.dds"
+	}
+
+}

@@ -1,0 +1,15 @@
+characters={
+	SEN_Macky_Sall={
+		name=SEN_Macky_Sall
+		portraits={
+			civilian={
+				large="GFX_Portrait_SEN_Macky_Sall"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

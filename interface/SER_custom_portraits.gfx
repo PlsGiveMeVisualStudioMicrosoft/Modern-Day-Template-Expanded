@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SER_National_Assembly_of_Serbia"
+		texturefile = "gfx/leaders/SER/Portrait_SER_National_Assembly_of_Serbia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SER_Ivica_Dacic"
+		texturefile = "gfx/leaders/SER/Portrait_SER_Ivica_Dacic.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SER_Vojislav_Seselj"
+		texturefile = "gfx/leaders/SER/Portrait_SER_Vojislav_Seselj.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SER_Aleksandar_Vucic"
+		texturefile = "gfx/leaders/SER/Portrait_SER_Aleksandar_Vucic.dds"
+	}
+
+}

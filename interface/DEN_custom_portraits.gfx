@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_DEN_Folketing"
+		texturefile = "gfx/leaders/DEN/Portrait_DEN_Folketing.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_DEN_Pernille_Skipper"
+		texturefile = "gfx/leaders/DEN/Portrait_DEN_Pernille_Skipper.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_DEN_Pernille_Vermund"
+		texturefile = "gfx/leaders/DEN/Portrait_DEN_Pernille_Vermund.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_DEN_Kristian_Thulesen_Dahl"
+		texturefile = "gfx/leaders/DEN/Portrait_DEN_Kristian_Thulesen_Dahl.dds"
+	}
+
+}

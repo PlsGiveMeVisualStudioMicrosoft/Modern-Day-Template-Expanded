@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ITA_Parlamento"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Parlamento.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ITA_Viola_Carofalo"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Viola_Carofalo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ITA_Matteo_Salvini"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Matteo_Salvini.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ITA_Giorgia_Meloni"
+		texturefile = "gfx/leaders/ITA/Portrait_ITA_Giorgia_Meloni.dds"
+	}
+
+}

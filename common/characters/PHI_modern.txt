@@ -1,0 +1,15 @@
+characters={
+	PHI_Rodrigo_Duterte={
+		name=PHI_Rodrigo_Duterte
+		portraits={
+			civilian={
+				large="GFX_Portrait_PHI_Rodrigo_Duterte"
+			}
+		}
+		country_leader={
+			ideology=right_wing_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

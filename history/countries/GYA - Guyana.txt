@@ -1,0 +1,33 @@
+recruit_character = GYA_Moses_Nagamootoo #Democratic
+recruit_character = GYA_Cheddi_Jagan #Anti-Liberal
+recruit_character = GYA_David_Granger #Populist/Reactionary
+recruit_character = GYA_Irfaan_Ali #Nationalist/Non-Aligned
+
+capital = 687
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 58
+	fascism = 35
+	communism = 5
+	neutrality = 2
+}
+
+#
+
+

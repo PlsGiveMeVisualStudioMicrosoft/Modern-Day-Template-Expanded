@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ARM_Nikol_Pashinyan"
+		texturefile = "gfx/leaders/ARM/Portrait_ARM_Nikol_Pashinyan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARM_Serzh_Sargsyan"
+		texturefile = "gfx/leaders/ARM/Portrait_ARM_Serzh_Sargsyan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARM_Vitaly_Balasanyan"
+		texturefile = "gfx/leaders/ARM/Portrait_ARM_Vitaly_Balasanyan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_ARM_Robert_Kocharyan"
+		texturefile = "gfx/leaders/ARM/Portrait_ARM_Robert_Kocharyan.dds"
+	}
+
+}

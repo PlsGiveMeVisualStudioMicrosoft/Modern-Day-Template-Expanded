@@ -1,0 +1,61 @@
+characters={
+	EST_Martin_Helme={
+		name=EST_Martin_Helme
+		portraits={
+			civilian={
+				large="GFX_Portrait_EST_Martin_Helme"
+			}
+		}
+
+		country_leader={
+			ideology=right_nationalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+
+	EST_Sven_Kivisildnik_F={
+			name=EST_Sven_Kivisildnik
+			portraits={
+				civilian={
+					large="GFX_portrait_EST_Sven_Kivisildnik"
+				}
+			}
+
+			country_leader={
+				ideology=Russophic_Nazism_EST_EIP_F
+				expire="2083.1.1.1"
+				id=-1
+			}
+	}
+
+
+	EST_Riigikogu={
+		name=EST_Riigikogu
+		portraits={
+			civilian={
+				large="GFX_portrait_EST_Riigikogu"
+			}
+		}
+		country_leader={
+			ideology=post_soviet_neo_liberalism
+			expire="2283.1.1.1"
+			id=-1
+		}
+	}
+
+	EST_Sven_Kivisildnik={
+		name=EST_Sven_Kivisildnik
+		portraits={
+			civilian={
+				large="GFX_portrait_EST_Sven_Kivisildnik"
+			}
+		}
+		country_leader={
+			ideology=Russophic_Nazism_EST_EIP
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+
+}

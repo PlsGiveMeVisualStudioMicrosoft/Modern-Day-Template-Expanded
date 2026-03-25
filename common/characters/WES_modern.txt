@@ -1,0 +1,15 @@
+characters={
+	WES_Brahim_Ghali={
+		name=WES_Brahim_Ghali
+		portraits={
+			civilian={
+				large="GFX_Portrait_WES_Brahim_Ghali"
+			}
+		}
+		country_leader={
+			ideology=russian_socialism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

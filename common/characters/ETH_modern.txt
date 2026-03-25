@@ -1,0 +1,15 @@
+characters={
+	ETH_Abiy_Ahmed={
+		name=ETH_Abiy_Ahmed
+		portraits={
+			civilian={
+				large="GFX_Portrait_ETH_Abiy_Ahmed"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 1049
+	name = "Monaco" # Fta
+	manpower = 38572
+	
+	state_category = city
+
+	history = {
+		owner = FRA
+		victory_points = { 13383 15 } #FRA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+		}
+		add_core_of = FRA
+		
+	}
+
+	provinces = {
+		13383
+ 	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,15 @@
+characters={
+	CMR_Paul_Biya={
+		name=CMR_Paul_Biya
+		portraits={
+			civilian={
+				large="GFX_Portrait_CMR_Paul_Biya"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

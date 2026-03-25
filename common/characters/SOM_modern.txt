@@ -1,0 +1,15 @@
+characters={
+	SOM_Mohamed_Abdullahi_Farmaajo={
+		name=SOM_Mohamed_Abdullahi_Farmaajo
+		portraits={
+			civilian={
+				large="GFX_Portrait_SOM_Mohamed_Abdullahi_Farmaajo"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,329 @@
+# Blank border war events
+
+add_namespace = SEA_border_incidents_events
+add_namespace = japan_border_conflict
+add_namespace = soviet
+add_namespace = tsr_manchukuo_border_war
+add_namespace = tsr_sichuan_border_war
+
+country_event = {
+	id = SEA_border_incidents_events.1
+	title = SEA_border_incidents_events.1.t
+	desc = SEA_border_incidents_events_1.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_1.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.2
+	title = SEA_border_incidents_events.2.t
+	desc = SEA_border_incidents_events_2.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_2.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.3
+	title = SEA_border_incidents_events.3.t
+	desc = SEA_border_incidents_events_3.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_3.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.4
+	title = SEA_border_incidents_events.4.t
+	desc = SEA_border_incidents_events_4.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_4.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.5
+	title = SEA_border_incidents_events.5.t
+	desc = SEA_border_incidents_events_5.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_5.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.6
+	title = SEA_border_incidents_events.6.t
+	desc = SEA_border_incidents_events_6.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_6.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.7
+	title = SEA_border_incidents_events.7.t
+	desc = SEA_border_incidents_events_7.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_7.a
+	}
+}
+
+country_event = {
+	id = SEA_border_incidents_events.8
+	title = SEA_border_incidents_events.8.t
+	desc = SEA_border_incidents_events_8.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = SEA_border_incidents_events_8.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.1
+	title = japan_border_conflict.1.t
+	desc = japan_border_conflict_1.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_1.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.2
+	title = japan_border_conflict.2.t
+	desc = japan_border_conflict_2.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_2.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.3
+	title = japan_border_conflict.3.t
+	desc = japan_border_conflict_3.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_3.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.4
+	title = japan_border_conflict.4.t
+	desc = japan_border_conflict_4.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_4.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.5
+	title = japan_border_conflict.5.t
+	desc = japan_border_conflict_5.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_5.a
+	}
+}
+
+country_event = {
+	id = japan_border_conflict.6
+	title = japan_border_conflict.6.t
+	desc = japan_border_conflict_6.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = japan_border_conflict_6.a
+	}
+}
+
+country_event = {
+	id = soviet.19
+	title = soviet.19.t
+	desc = soviet_19.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = soviet_19.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.1
+	title = tsr_manchukuo_border_war.1.t
+	desc = tsr_manchukuo_border_war_1.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_1.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.2
+	title = tsr_manchukuo_border_war.2.t
+	desc = tsr_manchukuo_border_war_2.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_2.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.3
+	title = tsr_manchukuo_border_war.3.t
+	desc = tsr_manchukuo_border_war_3.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_3.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.4
+	title = tsr_manchukuo_border_war.4.t
+	desc = tsr_manchukuo_border_war_4.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_4.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.5
+	title = tsr_manchukuo_border_war.5.t
+	desc = tsr_manchukuo_border_war_5.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_5.a
+	}
+}
+
+country_event = {
+	id = tsr_manchukuo_border_war.6
+	title = tsr_manchukuo_border_war.6.t
+	desc = tsr_manchukuo_border_war_6.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_manchukuo_border_war_6.a
+	}
+}
+
+country_event = {
+	id = tsr_sichuan_border_war.1
+	title = tsr_sichuan_border_war.1.t
+	desc = tsr_sichuan_border_war_1.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_sichuan_border_war_1.a
+	}
+}
+
+country_event = {
+	id = tsr_sichuan_border_war.2
+	title = tsr_sichuan_border_war.2.t
+	desc = tsr_sichuan_border_war_2.d
+	picture = GFX_report_event_generic_sign_treaty1
+
+	is_triggered_only = yes
+	hidden = yes
+
+	option = {
+		name = tsr_sichuan_border_war_2.a
+	}
+}

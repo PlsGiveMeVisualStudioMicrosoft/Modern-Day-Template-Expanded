@@ -1,0 +1,15 @@
+characters={
+	MRT_Mohamed_Ould_Ghazouani={
+		name=MRT_Mohamed_Ould_Ghazouani
+		portraits={
+			civilian={
+				large="GFX_Portrait_MRT_Mohamed_Ould_Ghazouani"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

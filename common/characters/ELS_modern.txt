@@ -1,0 +1,15 @@
+characters={
+	ELS_Nayib_Bukele={
+		name=ELS_Nayib_Bukele
+		portraits={
+			civilian={
+				large="GFX_Portrait_ELS_Nayib_Bukele"
+			}
+		}
+		country_leader={
+			ideology=right_wing_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

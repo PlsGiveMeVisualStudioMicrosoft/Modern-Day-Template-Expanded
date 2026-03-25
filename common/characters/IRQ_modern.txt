@@ -1,0 +1,15 @@
+characters={
+	IRQ_Barham_Salih={
+		name=IRQ_Barham_Salih
+		portraits={
+			civilian={
+				large="GFX_Portrait_IRQ_Barham_Salih"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

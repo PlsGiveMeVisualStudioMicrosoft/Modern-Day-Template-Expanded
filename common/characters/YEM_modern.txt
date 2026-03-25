@@ -1,0 +1,15 @@
+characters={
+	YEM_Abd_Rabbuh_Mansur_Hadi={
+		name=YEM_Abd_Rabbuh_Mansur_Hadi
+		portraits={
+			civilian={
+				large="GFX_Portrait_YEM_Abd_Rabbuh_Mansur_Hadi"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

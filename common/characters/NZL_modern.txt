@@ -1,0 +1,15 @@
+characters={
+	NZL_Jacinda_Ardern={
+		name=NZL_Jacinda_Ardern
+		portraits={
+			civilian={
+				large="GFX_Portrait_NZL_Jacinda_Ardern"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

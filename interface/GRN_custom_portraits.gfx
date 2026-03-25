@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_GRN_Inatsisartut"
+		texturefile = "gfx/leaders/GRN/Portrait_GRN_Inatsisartut.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRN_Mute_Bourup_Egede"
+		texturefile = "gfx/leaders/GRN/Portrait_GRN_Mute_Bourup_Egede.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRN_Hans_Enoksen"
+		texturefile = "gfx/leaders/GRN/Portrait_GRN_Hans_Enoksen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_GRN_Vittus_Qujaukitsoq"
+		texturefile = "gfx/leaders/GRN/Portrait_GRN_Vittus_Qujaukitsoq.dds"
+	}
+
+}

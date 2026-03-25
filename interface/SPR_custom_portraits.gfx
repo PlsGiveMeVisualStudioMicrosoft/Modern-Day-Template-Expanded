@@ -1,0 +1,23 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SPR_Cortes_Generales"
+		texturefile = "gfx/leaders/SPR/Portrait_SPR_Cortes_Generales.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SPR_Izquierda_Unida"
+		texturefile = "gfx/leaders/SPR/Portrait_SPR_Izquierda_Unida.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SPR_Santiago_Abascal"
+		texturefile = "gfx/leaders/SPR/Portrait_SPR_Santiago_Abascal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_SPR_Santiago_Abascal"
+		texturefile = "gfx/leaders/SPR/Portrait_SPR_Santiago_Abascal.dds"
+	}
+
+}
