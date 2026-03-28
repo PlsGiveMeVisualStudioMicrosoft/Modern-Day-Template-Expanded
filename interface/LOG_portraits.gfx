@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_LOG_Noureddine_Adam"
+		texturefile = "gfx/leaders/LOG/Portrait_LOG_Noureddine_Adam.dds"
+	}
+
+}

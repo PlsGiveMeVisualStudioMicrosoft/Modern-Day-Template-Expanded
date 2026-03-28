@@ -1,0 +1,15 @@
+characters={
+	ZAP_Zapatistas={
+		name=ZAP_Zapatistas
+		portraits={
+			civilian={
+				large="GFX_Portrait_ZAP_Zapatistas"
+			}
+		}
+		country_leader={
+			ideology=neozapatismo
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

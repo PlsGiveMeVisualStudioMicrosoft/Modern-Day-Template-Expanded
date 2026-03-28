@@ -1,0 +1,28 @@
+characters={
+	MLT_Joseph_Muscat={
+		name=MLT_Joseph_Muscat
+		portraits={
+			civilian={
+				large="GFX_Portrait_MLT_Joseph_Muscat"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+	MLT_Adrian_Delia={
+		name=MLT_Adrian_Delia
+		portraits={
+			civilian={
+				large="GFX_Portrait_MLT_Adrian_Delia"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

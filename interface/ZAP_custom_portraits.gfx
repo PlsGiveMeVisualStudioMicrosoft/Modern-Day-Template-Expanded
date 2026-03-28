@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ZAP_Zapatistas"
+		texturefile = "gfx/leaders/ZAP/Portrait_ZAP_Zapatistas.dds"
+	}
+
+}

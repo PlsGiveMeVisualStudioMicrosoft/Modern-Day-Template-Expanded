@@ -1,0 +1,15 @@
+characters={
+	SSD_Salva_Kiir_Mayardit={
+		name=SSD_Salva_Kiir_Mayardit
+		portraits={
+			civilian={
+				large="GFX_Portrait_SSD_Salva_Kiir_Mayardit"
+			}
+		}
+		country_leader={
+			ideology=neutral_centrism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

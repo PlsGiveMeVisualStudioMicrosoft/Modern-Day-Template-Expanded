@@ -1,0 +1,27 @@
+
+state={
+	id=1072
+	name="Biaro"
+	manpower = 357589
+	
+	state_category = pastoral
+	resources={
+		rubber=6
+	}
+	history={
+		owner = LOG
+		add_core_of = LOG
+		add_core_of = ANT
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		5084 1974
+	}
+
+	local_supplies=2.0 
+}

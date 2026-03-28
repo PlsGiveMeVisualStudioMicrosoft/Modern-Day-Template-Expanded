@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ALQ_Abu_Bakr_al-Baghdadi"
+		texturefile = "gfx/leaders/ALQ/Portrait_ALQ_Abu_Bakr_al-Baghdadi.dds"
+	}
+
+}

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_HUT_Abdul-Malik_al-Houthi"
+		texturefile = "gfx/leaders/HUT/Portrait_HUT_Abdul-Malik_al-Houthi.dds"
+	}
+
+}

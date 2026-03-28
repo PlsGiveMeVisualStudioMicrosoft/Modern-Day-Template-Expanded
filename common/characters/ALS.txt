@@ -1,0 +1,15 @@
+characters={
+	ALS_Ali_Mohamed_Rage={
+		name=ALS_Ali_Mohamed_Rage
+		portraits={
+			civilian={
+				large="GFX_Portrait_ALS_Ali_Mohamed_Rage"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

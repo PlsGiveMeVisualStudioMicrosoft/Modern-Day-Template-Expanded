@@ -1,0 +1,28 @@
+
+state={
+	id=1074
+	name="Rural Desert"
+	manpower = 471161
+	
+	state_category = pastoral
+	resources={
+		rubber=6
+	}
+	history={
+		owner = RGR
+		add_core_of = RGR
+		add_core_of = ANT
+		add_core_of = LOG
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		12719
+	}
+
+	local_supplies=2.0 
+}

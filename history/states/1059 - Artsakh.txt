@@ -1,0 +1,30 @@
+state={
+	id=1059
+	name="Artsakh"
+
+	history={
+		owner = KAL
+		victory_points = {
+			6997 3
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = AZR
+		add_core_of = ARM
+		add_core_of = KAL	
+
+	}
+
+	provinces={
+		9715 1610 1467 4660 13398
+	}
+	manpower=145140
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

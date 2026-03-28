@@ -1,0 +1,15 @@
+characters={
+	KUR_Ilham_Ahmed={
+		name=KUR_Ilham_Ahmed
+		portraits={
+			civilian={
+				large="GFX_Portrait_KUR_Ilham_Ahmed"
+			}
+		}
+		country_leader={
+			ideology=kurdish_communalism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

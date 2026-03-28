@@ -1,0 +1,24 @@
+
+state={
+	id=1079
+	name="Syrian Desert"
+
+	history={
+		owner = SSG
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SYR
+		add_core_of = SSG
+
+	}
+
+	provinces={
+		10383
+	}
+	manpower=73311
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=2.0 
+}

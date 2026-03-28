@@ -8,10 +8,11 @@ state = {
 	force_link_ownership_to = 662 # Sirte
 
 	history = {
-		controller = LBA
+		controller = LNA
 
-		owner = LBA
+		owner = LNA
 		add_core_of = LBA
+		add_core_of = LNA
 
 		buildings = {
 			infrastructure = 0

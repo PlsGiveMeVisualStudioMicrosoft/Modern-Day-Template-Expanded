@@ -68,6 +68,7 @@ set_popularities = {
 }
 
 # Qazi Muhammad was leader of the short-lived Marxist uprising in Iranian Kurdistan
+recruit_character = KUR_Ilham_Ahmed
 recruit_character = KUR_qazi_muhamad
 
 # Sheikh Mahmud Barzanji was King of Kurdistan from 1922-1924 and Sheikh of a Sufi family the "Barzanjis"

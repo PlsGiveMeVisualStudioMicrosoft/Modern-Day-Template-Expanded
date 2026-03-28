@@ -6,9 +6,11 @@ state = {
 
 	history = {
 		add_core_of = SOM
-		controller = SUD
-		owner = SUD
+		controller = SSD
+		owner = SSD
 		add_core_of = SUD
+		add_core_of = SSD
+		add_core_of = SSU
 		buildings = {
 			infrastructure = 2
 
@@ -17,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		2096 10859 10877 12800 
+		2096 10859 12800 
 	}
 
 	buildings_max_level_factor = 1.000

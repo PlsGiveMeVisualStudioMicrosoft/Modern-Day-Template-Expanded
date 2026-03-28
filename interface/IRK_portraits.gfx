@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_IRK_Nechirvan_Barzani"
+		texturefile = "gfx/leaders/IRK/Portrait_IRK_Nechirvan_Barzani.dds"
+	}
+
+}

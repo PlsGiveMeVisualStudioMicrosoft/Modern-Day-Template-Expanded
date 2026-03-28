@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_FSA_Aidarus_al-Zoubaidi"
+		texturefile = "gfx/leaders/FSA/Portrait_FSA_Aidarus_al-Zoubaidi.dds"
+	}
+
+}

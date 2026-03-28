@@ -1,0 +1,15 @@
+characters={
+	LNA_Khalifa_Haftar={
+		name=LNA_Khalifa_Haftar
+		portraits={
+			civilian={
+				large="GFX_Portrait_LNA_Khalifa_Haftar"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1077
+	name="Aleppo"
+
+	history={
+		owner = SSG
+		victory_points = {
+			1088 1 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SYR
+		add_core_of = SSG
+
+	}
+
+	provinces={
+		7140 12473 7671
+	}
+	manpower=2560190
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=2.0 
+}

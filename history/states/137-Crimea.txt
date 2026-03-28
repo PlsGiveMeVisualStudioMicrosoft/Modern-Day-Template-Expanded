@@ -7,9 +7,9 @@ state = {
 
 	history = {
 		add_core_of = UKR
-		controller = UKR
+		controller = SOV
 
-		owner = UKR
+		owner = SOV
 
 		victory_points = {
 			3686 20 # Sevastopol

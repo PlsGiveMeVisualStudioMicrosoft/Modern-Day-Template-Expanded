@@ -1,0 +1,26 @@
+
+state={
+	id=1075
+	name="Nasir"
+	manpower = 471161
+	
+	state_category = pastoral
+	resources={
+		rubber=6
+	}
+	history={
+		owner = SSU
+		add_core_of = RGR
+		add_core_of = SSU
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		10877 13422 13423
+	}
+
+	local_supplies=2.0 
+}

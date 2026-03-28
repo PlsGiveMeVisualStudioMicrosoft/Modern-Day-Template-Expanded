@@ -1,0 +1,15 @@
+characters={
+	HUT_Abdul-Malik_al-Houthi={
+		name=HUT_Abdul-Malik_al-Houthi
+		portraits={
+			civilian={
+				large="GFX_Portrait_HUT_Abdul-Malik_al-Houthi"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

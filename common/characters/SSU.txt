@@ -1,0 +1,15 @@
+characters={
+	SSU_Riek_Machar={
+		name=SSU_Riek_Machar
+		portraits={
+			civilian={
+				large="GFX_Portrait_SSU_Riek_Machar"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

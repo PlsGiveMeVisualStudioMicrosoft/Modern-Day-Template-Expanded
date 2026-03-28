@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SSU_Riek_Machar"
+		texturefile = "gfx/leaders/SSU/Portrait_SSU_Riek_Machar.dds"
+	}
+
+}

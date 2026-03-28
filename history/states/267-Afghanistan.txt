@@ -23,10 +23,11 @@ state={
 			10737 5 
 		}
 		add_core_of = AFG
+		add_core_of = TAL
 	}
 
 	provinces={
-		7916 7984 10737 10852 12769 
+		7916 7984 10737 10852 12769 10896
 	}
 
 	local_supplies=0.0 

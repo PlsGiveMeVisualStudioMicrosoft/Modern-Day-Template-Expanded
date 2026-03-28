@@ -1,4 +1,4 @@
-﻿capital = 992 #Sikkim
+capital = 992 #Sikkim
 
 
 set_research_slots = 2
@@ -21,3 +21,7 @@ set_popularities = {
 }
 
 
+
+
+# Custom characters added by HOI4 Character Generator
+recruit_character = FSA_Aidarus_al-Zoubaidi

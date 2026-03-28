@@ -1,0 +1,15 @@
+characters={
+	ANT_Maxime_Mokom={
+		name=ANT_Maxime_Mokom
+		portraits={
+			civilian={
+				large="GFX_Portrait_ANT_Maxime_Mokom"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

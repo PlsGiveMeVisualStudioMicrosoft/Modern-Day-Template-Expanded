@@ -1,0 +1,21 @@
+state={
+	id=1071
+	name="Eswatini"
+	provinces={
+		7900
+	}
+	manpower=871202
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+
+	history = {
+		controller = ESW
+		owner = ESW
+		add_core_of = ESW
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+}

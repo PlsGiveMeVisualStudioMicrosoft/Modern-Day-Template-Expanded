@@ -1,0 +1,15 @@
+characters={
+	TAL_Hibatullah_Akhundzada={
+		name=TAL_Hibatullah_Akhundzada
+		portraits={
+			civilian={
+				large="GFX_Portrait_TAL_Hibatullah_Akhundzada"
+			}
+		}
+		country_leader={
+			ideology=oligarchic_regime
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_PUN_Said_Abdullahi_Deni"
+		texturefile = "gfx/leaders/PUN/Portrait_PUN_Said_Abdullahi_Deni.dds"
+	}
+
+}

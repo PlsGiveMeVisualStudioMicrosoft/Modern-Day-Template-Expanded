@@ -1,0 +1,30 @@
+state=
+{
+	id = 1066
+	name = "Puntland"
+	manpower = 4334633
+	resources = {
+		steel = 31
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = PUN
+		add_core_of = SOM
+		add_core_of = PUN
+		victory_points = {
+			1966 3 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			
+		}
+	}
+	provinces = {
+		1966 10891 4909 10818
+	}
+
+	local_supplies=0.0 
+}

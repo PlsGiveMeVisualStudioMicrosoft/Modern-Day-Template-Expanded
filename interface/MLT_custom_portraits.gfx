@@ -1,0 +1,13 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_MLT_Joseph_Muscat"
+		texturefile = "gfx/leaders/MLT/Portrait_MLT_Joseph_Muscat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_Portrait_MLT_Adrian_Delia"
+		texturefile = "gfx/leaders/MLT/Portrait_MLT_Adrian_Delia.dds"
+	}
+
+}

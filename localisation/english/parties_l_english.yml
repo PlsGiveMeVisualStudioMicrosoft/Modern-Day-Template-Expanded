@@ -2053,3 +2053,8 @@
  SRL_fascism_party_long: "Sri Lanka Podujana Peramuna"
  SRL_neutrality_party: "SLFP"
  SRL_neutrality_party_long: "Sri Lanka Freedom Party"
+
+ MLT_fascism_party:0 "Imperium Europa"
+ MLT_democratic_party:0 "Labour Party"
+ MLT_communism_party:0 "Communist Party of Malta"
+ MLT_neutrality_party:0 "Nationalist Party"

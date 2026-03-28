@@ -1,0 +1,15 @@
+characters={
+	LEH_Letsie_III={
+		name=LEH_Letsie_III
+		portraits={
+			civilian={
+				large="GFX_Portrait_LEH_Letsie_III"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

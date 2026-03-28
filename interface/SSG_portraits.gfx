@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SSG_Ahmed_al-Sharaa"
+		texturefile = "gfx/leaders/SSG/Portrait_SSG_Ahmed_al-Sharaa.dds"
+	}
+
+}

@@ -12,7 +12,9 @@ ideologies = {
 
 			socialism = {
 			}
-
+			kurdish_communalism = {
+				color = { 255 0 0 }	
+			}
 			populism = {
 			}
 			demo_nationalism = {
@@ -95,6 +97,9 @@ ideologies = {
 		types = {
 
 			marxism = {
+			}
+			neozapatismo = {
+				color = { 10 10 10 }
 			}
 			centrist_russophilia = { #Yuriy Boyko
 				color = { 80 80 250 }			
@@ -190,7 +195,9 @@ ideologies = {
 
 			right_wing_populism = {
 			}
-
+			islamic_statism = {
+				color = { 10 10 10 }
+			}
 			gen_nazism = {
 			}
 			reactionary = {
@@ -217,6 +224,7 @@ ideologies = {
 			}
 
 			ultra_nationalism = {
+		
 			}
 
 			neo_fascism = {

@@ -1,0 +1,15 @@
+characters={
+	RGR_Anti-poaching_Units={
+		name=RGR_Anti-poaching_Units
+		portraits={
+			civilian={
+				large="GFX_Portrait_RGR_Anti-poaching_Units"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

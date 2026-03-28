@@ -9,15 +9,16 @@ state={
 
 	state_category = rural
 	provinces={
-		7448 7584 10896 12248 12877 
+		7584 12248 
 	}
 	history={
 		owner = AFG
 		buildings = {
 			infrastructure = 1 
 		}
-		add_core_of = AFG
+		add_core_of = TAL
 		add_core_of = TMS
+		add_core_of = TAL
 		victory_points = {
 			12248 1
 		}

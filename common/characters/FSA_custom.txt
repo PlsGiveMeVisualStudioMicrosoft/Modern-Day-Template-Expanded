@@ -1,0 +1,15 @@
+characters={
+	FSA_Aidarus_al-Zoubaidi={
+		name=FSA_Aidarus_al-Zoubaidi
+		portraits={
+			civilian={
+				large="GFX_Portrait_FSA_Aidarus_al-Zoubaidi"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

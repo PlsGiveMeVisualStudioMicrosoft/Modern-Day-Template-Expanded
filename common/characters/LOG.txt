@@ -1,0 +1,15 @@
+characters={
+	LOG_Noureddine_Adam={
+		name=LOG_Noureddine_Adam
+		portraits={
+			civilian={
+				large="GFX_Portrait_LOG_Noureddine_Adam"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

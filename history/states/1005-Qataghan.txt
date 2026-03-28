@@ -12,9 +12,10 @@ state={
 		7519 10781 10826 12314 12653 
 	}
 	history={
-		owner = AFG
+		owner = TAL
 		add_core_of = AFG
 		add_core_of = TAJ
+		add_core_of = TAL
 		victory_points = {
 			10781 1
 		}

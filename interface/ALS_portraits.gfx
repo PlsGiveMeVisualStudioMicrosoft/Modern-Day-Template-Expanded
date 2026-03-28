@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_ALS_Ali_Mohamed_Rage"
+		texturefile = "gfx/leaders/ALS/Portrait_ALS_Ali_Mohamed_Rage.dds"
+	}
+
+}

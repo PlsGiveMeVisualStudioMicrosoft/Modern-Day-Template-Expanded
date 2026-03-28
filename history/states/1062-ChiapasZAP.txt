@@ -1,0 +1,28 @@
+
+state={
+	id=1062
+	name="Chiapas"
+	manpower = 3543828
+	
+	state_category = rural
+
+	history={
+		owner = ZAP
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ZAP
+		add_core_of = MEX
+
+		victory_points = {
+			13406 3
+		}
+	}
+
+	provinces={
+		13406 13407
+	}
+	
+
+	local_supplies=0.0 
+}

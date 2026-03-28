@@ -1,0 +1,16 @@
+characters={
+	ESW_Mswati_III={
+		name=ESW_Mswati_III
+		portraits={
+			civilian={
+				large="GFX_Portrait_ESW_Mswati_III"
+			}
+		}
+		country_leader={
+			ideology=personalist_dictatorship
+			traits={ BRA_sugar_king }
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

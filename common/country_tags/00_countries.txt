@@ -374,4 +374,36 @@ SML = "countries/Somaliland.txt"
 LPR = "countries/Luhansk.txt"
 DPR = "countries/Donetsk.txt"
 
+ZAP = "countries/Zapatista Army of National Liberation.txt"
+
+LNA = "countries/Libyan National Army.txt"
+
+SSD = "countries/Republic of South Sudan.txt"
+
+ALS = "countries/Al-Shabaab.txt"
+
+PUN = "countries/Puntland State of Somalia.txt"
+
+HUT = "countries/Ansar Allah.txt"
+
+ALQ = "countries/Islamic State.txt"
+
+ESW = "countries/Kingdom of Eswatini.txt"
+
+LEH = "countries/Kingdom of Lesotho.txt"
+
+TAL = "countries/Islamic Emirate of Afghanistan.txt"
+
+RGR = "countries/Éco-gardes.txt"
+
+LOG = "countries/Republic of Logone.txt"
+
+ANT = "countries/Anti-balaka Alliance.txt"
+
+SSU = "countries/Anti-Governmental Forces.txt"
+
+IRK = "countries/Kurdistan Region.txt"
+
+SSG = "countries/Syrian Salvation Government.txt"
+
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")

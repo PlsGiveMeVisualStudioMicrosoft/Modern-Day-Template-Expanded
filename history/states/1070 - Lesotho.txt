@@ -1,0 +1,21 @@
+state={
+	id=1070
+	name="Lesotho"
+	provinces={
+		4556
+	}
+	manpower=871202
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+
+	history = {
+		controller = LEH
+		owner = LEH
+		add_core_of = LEH
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+}

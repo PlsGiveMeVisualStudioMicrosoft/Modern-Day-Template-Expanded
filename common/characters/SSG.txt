@@ -1,0 +1,15 @@
+characters={
+	SSG_Ahmed_al-Sharaa={
+		name=SSG_Ahmed_al-Sharaa
+		portraits={
+			civilian={
+				large="GFX_Portrait_SSG_Ahmed_al-Sharaa"
+			}
+		}
+		country_leader={
+			ideology=democratic_populism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

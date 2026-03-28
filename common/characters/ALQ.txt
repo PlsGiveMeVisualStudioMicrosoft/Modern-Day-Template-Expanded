@@ -1,0 +1,15 @@
+characters={
+	ALQ_Abu_Bakr_al-Baghdadi={
+		name=ALQ_Abu_Bakr_al-Baghdadi
+		portraits={
+			civilian={
+				large="GFX_Portrait_ALQ_Abu_Bakr_al-Baghdadi"
+			}
+		}
+		country_leader={
+			ideology=islamic_statism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

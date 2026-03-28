@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_SSD_Salva_Kiir_Mayardit"
+		texturefile = "gfx/leaders/SSD/Portrait_SSD_Salva_Kiir_Mayardit.dds"
+	}
+
+}

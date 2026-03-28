@@ -1,0 +1,22 @@
+state={
+	id=1069
+	name="Al-Qaeda Holdouts"
+	provinces={
+		13418 13419 13420 13421
+	}
+	manpower=871202
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+
+	history = {
+		controller = ALQ
+		owner = ALQ
+		add_core_of = YEM
+		add_core_of = ALQ
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+}

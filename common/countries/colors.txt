@@ -1,5 +1,8 @@
 #reload countrycolors
-
+ZAP = {
+	color = rgb { 10 10 10 }
+	color_ui = rgb { 10 10 10 }
+}
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
@@ -455,14 +458,6 @@ PAK = {
 	color = rgb { 0 102 0  }
 	color_ui = rgb { 0 102 0  }
 }
-#WGR = {
-#    color = rgb { 195 236 230 } # The colors are set to be more are less what we are used to
-#    color_ui = rgb { 225 255 255 }
-#}
-#DDR = {
-#    color = rgb { 120 150 80 }
-#    color_ui = rgb { 150 180 120 }
-#}
 KOR = {
 	color = rgb { 255  240  195 }
 	color_ui = rgb { 255 248 229 }	
@@ -1192,29 +1187,79 @@ XIC = {
 	color = rgb { 43 92 181 }
 	color_ui = rgb { 45 100 190 } 
 }
-
 RNG = {
 	color = rgb { 255 191 0 }
 	color_ui = rgb { 204 153 0 } 
 }
-
 PSR = {
 	color = rgb { 31 31 122 }
 	color_ui = rgb { 16 16 61 }
 }
-
 HBC = {
 	color = rgb { 156 27 22 }
 	color_ui = rgb { 94 17 14 }
 }
-
-LPR = {
-	color = rgb { 0 0 166 }
-	color_ui = rgb { 94 17 14 }
+LNA = {
+	color = rgb { 31 124 31 }
+	color_ui = rgb { 36 143 36 }
 }
-
 DPR = {
 	color = rgb { 0 0 166 }
-	color_ui = rgb { 94 17 14 }
+	color_ui = rgb { 0 0 166 }
 }
-
+LPR = {
+	color = rgb { 0 0 166 }
+	color_ui = rgb { 0 0 166 }
+}
+SSD = {
+	color = rgb { 37 78 218 }
+	color_ui = rgb { 37 78 218 }
+}
+ALS = {
+	color = rgb { 44 44 44 }
+	color_ui = rgb { 44 44 44 }
+}
+PUN = {
+	color = rgb { 92 199 78 }
+	color_ui = rgb { 92 199 78 }
+}
+HUT = {
+	color = rgb { 255 128 64 }
+	color_ui = rgb { 255 128 64 }
+}
+ALQ = {
+	color = rgb { 12 2 40 }
+	color_ui = rgb { 12 2 40 }
+}
+ESW = {
+	color = rgb { 48 81 242 }
+	color_ui = rgb { 48 81 242 }
+}
+LEH = {
+	color = rgb { 116 220 116 }
+	color_ui = rgb { 116 220 116 }
+}
+TAL = {
+	color = rgb { 209 232 243 }
+	color_ui = rgb { 209 232 243 }
+}
+LOG = {
+	color = rgb { 166 152 51 }
+	color_ui = rgb { 166 152 51 }
+}
+ANT = {
+	color = rgb { 98 163 54 }
+	color_ui = rgb { 98 163 54 }
+}
+SSU = {
+	color = rgb { 97 162 53 }
+	color_ui = rgb { 97 162 53 }
+}
+IRK = {
+	color = rgb { 238 230 70 }
+	color_ui = rgb { 238 230 70 }
+}
+SSG = {
+	color = rgb { 38 180 31 }
+	color_ui = rgb { 38 180 31 }
+}

@@ -1,0 +1,26 @@
+state=
+{
+	id = 1063
+	name = "Rural Somalia"
+	manpower = 82804
+	resources = {
+		steel = 1
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = ALS
+		add_core_of = SOM
+		add_core_of = ALS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	provinces = {
+		13410 13408
+	}
+
+	local_supplies=0.0
+}

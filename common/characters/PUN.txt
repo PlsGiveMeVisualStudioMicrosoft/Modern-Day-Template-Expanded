@@ -1,0 +1,15 @@
+characters={
+	PUN_Said_Abdullahi_Deni={
+		name=PUN_Said_Abdullahi_Deni
+		portraits={
+			civilian={
+				large="GFX_Portrait_PUN_Said_Abdullahi_Deni"
+			}
+		}
+		country_leader={
+			ideology=centrism
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

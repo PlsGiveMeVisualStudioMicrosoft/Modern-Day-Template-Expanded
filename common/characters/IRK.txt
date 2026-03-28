@@ -1,0 +1,15 @@
+characters={
+	IRK_Nechirvan_Barzani={
+		name=IRK_Nechirvan_Barzani
+		portraits={
+			civilian={
+				large="GFX_Portrait_IRK_Nechirvan_Barzani"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			expire="2083.1.1.1"
+			id=-1
+		}
+	}
+}

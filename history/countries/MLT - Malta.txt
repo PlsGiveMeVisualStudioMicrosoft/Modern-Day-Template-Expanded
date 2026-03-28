@@ -1,4 +1,4 @@
-﻿capital = 116
+capital = 116
 
 #oob = ""
 
@@ -9,6 +9,8 @@ set_technology = {
 
 set_convoys = 5
 
+recruit_character = MLT_Joseph_Muscat
+recruit_character = MLT_Adrian_Delia
 recruit_character = MLT_aco2
 recruit_character = MLT_nt
 recruit_character = MLT_communist_guy
@@ -39,7 +41,7 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 50
-	fascism = 8
-	communism = 15
+	fascism = 0
+	communism = 3
 	neutrality = 27
 }
